@@ -1,0 +1,151 @@
+Ant, Giant
+Starting Statistics
+Size Small; Speed 30 ft., climb 20 ft.; AC +2 natural armor; Attack bite (1d4 plus grab); Ability Scores Str 10, Dex 12, Con 15, Int —, Wis 12, Cha 10; Special Qualities low-light vision, scent; CMD trip +8.
+4th-Level Advancement
+Size Medium; Attack bite (1d6 plus grab), sting (1d4 plus poison); Ability Scores Str +4, Dex –2, Con +2; Special Attacks poison ( frequency 1 round [4], effect 1 Str damage, cure 1 save, Con-based DC).
+
+Assassin Bug, Giant
+Source PZO1140
+This long-legged, beetle-like insect can spew a stream of poison at its foes from a distance.
+Starting Statistics
+Size Small; Speed 30 ft., fly 30 ft. (clumsy); AC +2 natural armor; Attack bite (1d4 plus poison), 2 claws (1d3); Ability Scores Str 13, Dex 15, Con 13, Int —, Wis 10, Cha 2; Special Attacks poison (frequency 1 round [4]; effect 1d2 Dex; cure 1 save; Con-based DC), poison stream (exposes all creatures in a 15-ft. line to poison, Reflex save negates; Dex-based DC; usable every 1d4 rounds as a standard action); Special Qualities darkvision 60 ft.; CMD trip +8.
+4th-Level Advancement
+Size Medium; AC +1 natural armor; Attack bite (1d6 plus poison), 2 claws (1d4); Ability Scores Str +4, Dex –2, Con +2; Special Attacks poison (frequency 1 round [4]; effect 1d2 Dex; cure 2 saves; Con-based DC).
+
+Beetle, Giant
+Starting Statistics
+Size Small; Speed 20 ft., fly 20 ft. (poor); AC +6 natural armor; Attack bite (1d6); Ability Scores Str 13, Dex 12, Con 13, Int —, Wis 11, Cha 4; Special Qualities darkvision; CMD trip +8.
+4th-Level Advancement
+Size Medium; Attack bite (1d8); Ability Scores Str +4, Dex –2, Con +2; Special Attacks trample (1d4).
+
+Caterpillar, Giant
+Source PZO1140
+This many-legged wormlike creature is a larval form of a moth or butterfly, but as long as it remains a vermin companion, it will not go through this metamorphosis.
+Starting Statistics
+Size Small; Speed 30 ft., climb 30 ft.; AC +2 natural armor; Attack bite (1d6), bristles (1d4 plus poison); Ability Scores Str 14, Dex 13, Con 13, Int —, Wis 11, Cha 2; Special Attacks bristles (a creature attacking the giant caterpillar with a natural attack or non-reach melee weapon must succeed at a Reflex save or take damage as if the caterpillar had struck the creature with its bristles attack; Dex-based DC with a +2 racial bonus), poison (frequency 1 round [4]; effect 1d2 Str damage; cure 1 save; Con-based DC); Special Qualities compression, darkvision 60 ft.; CMD can’t be tripped.
+4th-Level Advancement
+Size Medium; AC +1 natural armor; Attack bite (1d8), bristles (1d6 plus poison); Ability Scores Str +4, Dex –2, Con +2.
+This is a secondary natural attack that deals piercing damage.
+
+Centipede, Giant
+Starting Statistics
+Size Small; Speed 20 ft., climb 20 ft.; AC +2 natural armor; Attack bite (1d4 plus poison); Ability Scores Str 8, Dex 17, Con 11, Int —, Wis 10, Cha 2; Special Attacks poison (frequency 1 round [6], effect 1 Dex damage, cure 1 save, Con-based DC); Special Qualities darkvision 60 ft.; CMD can’t be tripped.
+4th-Level Advancement
+Size Medium; Attack bite (1d6 plus poison); Ability Scores Str +4, Dex –2, Con +2.
+
+Centipede, Giant Whiptail
+Source PZO1140
+The long thin tendrils that lash out from this centipede’s tail can trip foes with surprising ease.
+Starting Statistics
+Size Medium; Speed 40 ft., climb 40 ft.; AC +3 natural armor; Attack bite (1d6 plus poison); Ability Scores Str 9, Dex 13, Con 13, Int —, Wis 10, Cha 2; Special Attacks poison (frequency 1 round [4]; effect 1d2 Dex damage; cure 1 save; Con-based DC); Special Qualities darkvision 60 ft.; CMD can’t be tripped.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack bite (1d8 plus poison), tail slap (1d2 nonlethal plus trip); Ability Scores Str +8, Dex –2, Con +4.
+This attack gains no bonus from the creature’s Strength score on damage rolls.
+
+Cockroach, Giant
+Source PZO1140
+Swift and unsettling, the giant cockroach is notoriously difficult to slay. These creatures prefer dark places and seem to have no opposition to crawling through filth.
+Starting Statistics
+Size Small; Speed 30 ft., climb 20 ft., fly 20 ft. (poor); AC +1 natural armor; Attack bite (1d4); Ability Scores Str 9, Dex 10, Con 17, Int —, Wis 11, Cha 2; Special Qualities darkvision 60 ft., hold breath, light sensitivity, tremorsense 60 ft.; CMD +8 vs. trip; Bonus Feat Endurance.
+4th-Level Advancement
+Speed 30 ft., climb 30 ft., fly 40 ft. (poor); AC +2 natural armor; Ability Scores Str +2, Dex +2, Con +2; Bonus Feat Diehard.
+
+Crab, Giant
+Starting Statistics
+Size Small; Speed 30 ft., swim 20 ft.; AC +5 natural armor; Attack 2 claws (1d3 plus grab); Ability Scores Str 13, Dex 14, Con 13, Int —, Wis 11, Cha 4; Special Attacks constrict (1d3); Special Qualities aquatic, darkvision, water dependency (survive out of water for 1 hour per point of Con, after which it begins to suffocate as if it were drowning); CMD trip +12.
+4th-Level Advancement
+Size Medium; Attack 2 claws (1d4 plus grab); Ability Scores Str +2, Dex –2, Con +2; Special Attacks constrict (1d4).
+
+Dragonfly, Giant
+Source PZO1140
+These long-winged insects have dazzlingly colorful bodies.
+Starting Statistics
+Size Small; Speed 20 ft., fly 40 ft. (perfect); AC +2 natural armor; Attack bite (1d8); Ability Scores Str 13, Dex 17, Con 12, Int —, Wis 12, Cha 9; Special Qualities darkvision 60 ft.; CMD +8 vs. trip.
+4th-Level Advancement
+Size Medium; Speed 20 ft., fly 80 ft. (perfect); AC +3 natural armor; Attack bite (2d6); Ability Scores Str +4, Dex –2, Con +2; Bonus Feat Flyby Attack.
+
+Eurypterid
+Source PZO1140
+Also known as sea scorpions, these aquatic insects have pincers and a long stinger.
+Starting Statistics
+Size Medium; Speed 20 ft., swim 40 ft.; AC +2 natural armor; Attack 2 claws (1d3), sting (1d3 plus poison); Ability Scores Str 10, Dex 11, Con 12, Int —, Wis 13, Cha 2; Special Qualities darkvision 60 ft.; Special Attacks poison (frequency 1 round [4]; effect 1 Con damage; cure 1 save; Con-based DC); CMD +8 vs. trip.
+7th-Level Advancement
+Size Large; AC +3 natural armor; Attack 2 claws (1d4), sting (1d4 plus poison); Ability Scores Str +8, Dex –2, Con +4; Special Attacks poison (frequency 1 round [6]; effect 1d2 Con damage; cure 1 save; Con-based DC).
+
+Leech, Giant
+Starting Statistics
+Size Small; Speed 5 ft., swim 20 ft.; AC +0 natural armor; Attack bite (1d4 plus attach); Ability Scores Str 9, Dex 14, Con 12, Int —, Wis 10, Cha 1; Special Attacks attach, blood drain (1 Str); Special Qualities amphibious, blindsense 30 ft., scent, susceptible to salt; CMD can’t be tripped.
+7th-Level Advancement
+Size Medium; Attack bite (1d6 plus attach); Ability Scores Str +2, Dex –2, Con +2; Special Attacks blood drain (1 Str and 1 Con damage); Special Qualities blindsight 30 ft.
+
+Locust, Giant
+Source PZO1140
+The giant locust has long limber legs and the ability to spit a caustic glob of noxious goo.
+Starting Statistics
+Size Small; Speed 20 ft., climb 20 ft., fly 20 ft. (poor); AC +3 natural armor; Attack bite (1d6); Ability Scores Str 12, Dex 17, Con 11, Int —, Wis 10, Cha 7; Special Attacks spit goo (ranged touch attack, 30-foot range, sickened for 1 round); Special Qualities +18 Acrobatics when jumping, darkvision 60 ft., leap (can take 10 on Acrobatics checks to jump, even when distracted or threatened); CMD +8 vs. trip.
+4th-Level Advancement
+Size Medium; Speed 20 ft., climb 20 ft., fly 60 ft. (average); AC +2 natural armor; Attack bite (1d8); Ability Scores Str +4, Dex –2, Con +2; Special Attacks voracious (bite attack deals double damage to creatures with the plant subtype and to objects made of paper, wood, or other plant materials).
+
+Mantis Shrimp, Giant
+Source PZO1140
+This colorful aquatic vermin has powerful claws capable of striking with blinding speed.
+Starting Statistics
+Size Small; Speed 40 ft., swim 30 ft.; AC +3 natural armor; Attack 2 pincers (1d6); Ability Scores Str 12, Dex 17, Con 14, Int —, Wis 13, Cha 6; Special Qualities aquatic blindsense 10 ft., darkvision 60 ft., sonic resistance 5; CMD +12 vs. trip.
+7th-Level Advancement
+Size Medium; AC +2 natural armor; Attack 2 pincers (1d8); Ability Scores Str +6, Dex –2, Con +2; Special Attacks speedy pincers (can make iterative attacks with one of its pincer attacks); Special Qualities blindsight 10 ft., sonic resistance 10.
+
+Mosquito, Giant
+Source PZO1140
+Between its bloodthirsty nature and the annoying drone of its wings, the giant mosquito is a much-loathed creature. Unlike its smaller cousins, a giant mosquito can easily kill larger creatures by draining them of their blood.
+Starting Statistics
+Size Small; Speed 20 ft., fly 60 ft. (good); AC +1 natural armor; Attack bite (1d6 plus bleed and grab); Ability Scores Str 14, Dex 21, Con 15, Int —, Wis 13, Cha 6; Special Attacks bleed (1d4), grab; Special Qualities darkvision 60 ft.; CMD +8 vs. trip.
+7th-Level Advancement
+Size Medium; AC +1 natural armor; Attack bite (1d8 plus bleed and grab); Ability Scores Str +4, Dex –2, Con +2; Special Attacks bleed (2d4), blood drain (1d2 Constitution).
+
+Scorpion, Giant
+Starting Statistics
+Size Medium; Speed 40 ft.; AC +1 natural armor; Attack 2 claws (1d4 plus grab) and sting (1d4 plus poison); Ability Scores Str 11, Dex 12, Con 12, Int —, Wis 10, Cha 2; Special Attacks poison ( frequency 1 round (6), effect 1 Str damage, cure 1 save, Con-based DC); Special Qualities darkvision, tremorsense 30 ft; CMD trip +12.
+7th-Level Advancement
+Size Large; AC +3 natural armor; Attack 2 claws (1d6 plus grab) and sting (1d6 plus poison); Ability Scores Str +8, Dex –2, Con +4; Special Attacks poison ( frequency 1 round [6], effect 1d2 Str damage, cure 1 save, Con-based DC); Special Qualities tremorsense 60 ft.
+
+Slug, Giant
+Starting Statistics
+Size Medium; Speed 20 ft.; AC +4 natural armor; Attack tongue (1d4 plus 1 acid); Ability Scores Str 13, Dex 8, Con 13, Int —, Wis 10, Cha 1; Special Attacks spit acid (ranged touch attack, 30 foot range, 1d6 acid damage); Special Qualities blindsense 30 ft., DR 5/slashing or piercing, susceptible to salt; CMD can’t be tripped.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack tongue (1d6 plus 1d2 acid); Ability Scores Str +2, Dex –2, Con +2; Special Attacks spit acid (ranged touch attack, 30-foot range, 1d8 acid damage); Special Qualities blindsight 30 ft.
+
+Solifugid, Giant
+Source PZO1140
+This vermin’s double set of vertical mandibles make this giant solifugid a particularly ferocious-looking companion. Its speed allows it to strike at its enemies from cover without them knowing what happened.
+Starting Statistics
+Size Small; Speed 50 ft., climb 30 ft.; AC +1 natural armor; Attack bite (1d6), 2 claws (1d3); Ability Scores Str 12, Dex 15, Con 15, Int —, Wis 11, Cha 2; Special Qualities darkvision 60 ft.; CMD +12 vs. trip.
+4th-Level Advancement
+Size Medium; AC +3 natural armor; Attack bite (1d8), 2 claws (1d4); Ability Scores Str +4, Dex –2, Con +2; Special Attacks pounce, rend (2 claws, 1d4).
+
+Spider, Giant
+Starting Statistics
+Size Small; Speed 30 ft., climb 30 ft.; AC +0 natural armor; Attack bite (1d4 plus poison); Ability Scores Str 6, Dex 17, Con 10, Int —, Wis 10, Cha 2; Special Attacks poison (frequency 1 round [4], effect 1 Str damage, cure 1 save, Con-based DC); Special Qualities darkvision, tremorsense 30 feet; CMD trip +12.
+4th-Level Advancement
+Size Medium; AC +1 natural armor; Attack bite (1d6 plus poison); Ability Scores Str +4, Dex –2, Con +2.
+
+Spider, Web Tyrant
+Source PZO1140
+The web tyrant spider’s bright coloration and long legs make for a stunning but unnerving companion.
+Starting Statistics
+Size Small; Speed 30 ft., climb 30 ft.; AC +1 natural armor; Attack bite (1d4); Ability Scores Str 10, Dex 17, Con 10, Int —, Wis 10, Cha 2; Special Attacks web; Special Qualities darkvision 60 ft.; CMD +12 vs. trip.
+4th-Level Advancement
+Size Medium; AC +1 natural armor; Attack bite (1d6); Ability Scores Str +4, Dex –2, Con +2.
+
+Termite, Giant
+Source PZO1140
+The giant termite has a set of large powerful mandibles, and it is particularly effective when fighting alongside other termite companions.
+Starting Statistics
+Size Small; Speed 30 ft., climb 30 ft.; AC +2 natural armor; Attack bite (1d6); Ability Scores Str 12, Dex 11, Con 12, Int —, Wis 12, Cha 7; Special Attacks swarming (two giant termites can share the same space, and if they both attack the same target, they are considered to be flanking that foe); Special Qualities darkvision 60 ft.; CMD +8 vs. trip.
+4th-Level Advancement
+Size Medium; AC +3 natural armor; Attack bite (1d8 plus 1d6 acid); Ability Scores Str +4, Dex –2, Con +2; Special Attacks gnaw (bite attack ignores hardness of 5 or less).
+
+Wasp, Giant
+Starting Statistics
+Size Medium; Speed 20 ft., fly 60 ft. (good); AC +2 natural armor; Attack sting (1d6 plus poison); Ability Scores Str 10, Dex 14, Con 11, Int —, Wis 13, Cha 4; Special Attacks poison ( frequency 1 round [6], effect 1 Dex damage, cure 1 save, Con-based DC); Special Qualities darkvision; CMD trip +8.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack sting (1d8 plus poison); Ability Scores Str +8, Dex –2, Con +4.

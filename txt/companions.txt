@@ -1,0 +1,1066 @@
+Allosaurus
+Starting Statistics
+Size Medium, Speed 40 ft.; AC +4 natural armor; Attack bite (1d6), 2 claws (1d4)*; Ability Scores Str 14, Dex 16, Con 10, Int 2, Wis 15, Cha 10; Special Qualities low-light vision, scent.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack bite (1d8), 2 claws (1d6); Ability Scores Str +8, Dex –2, Con +4; Special Qualities grab, pounce.
+* This is a secondary natural attack, see Combat for more information on how secondary attacks work.
+
+Amargasaurus
+Source PRG:B6
+Starting Statistics
+Size Medium; Speed 30 ft.; AC +3 natural armor; Attack slam (1d6), tail slap (1d6); Ability Scores Str 11, Dex 18, Con 9, Int 2, Wis 13, Cha 10; Special Qualities low-light vision, scent.
+4th-Level Advancement
+Size Large; AC +2 natural armor; Attack slam (1d8), tail slap (1d8); Ability Scores Str +8, Dex –2, Con +4; Special Qualities trample.
+
+Anglerfish
+Source PZO1140
+The anglerfish is a fish that uses a bioluminescent lure at the tip of a stalk protruding from its head to attract prey.
+Starting Statistics
+Size Small; Speed swim 40 ft.; AC +1 natural armor; Attack bite (1d8 plus grab); Ability Scores Str 13, Dex 15, Con 12, Int 1, Wis 12, Cha 2; Special Qualities aquatic, grab (Medium), low-light vision, lure (sheds light as per a candle), scent.
+4th-Level Advancement
+Size Medium; AC +2 natural armor; Attack bite (2d6 plus grab); Ability Scores Str +2, Dex –2, Con +4; Special Qualities grab (Large), swallow whole (Medium).
+
+Ankylosaurus
+Starting Statistics
+Size Medium; Speed 30 ft.; AC +9 natural armor; Attack tail (1d6); Ability Scores Str 10, Dex 14, Con 9, Int 2, Wis 12, Cha 8; Special Qualities low-light vision, scent.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack tail (2d6); Ability Scores Str +8, Dex –2, Con +4; Special Qualities stun.
+
+Antelope
+Starting Statistics
+Size Small; Speed 60 ft.; AC +1 natural armor; Attack gore (1d4); Ability Scores Str 10, Dex 17, Con 14; Int 2; Wis 13; Cha 5; Special Qualities low-light vision.
+4th-Level Advancement
+Ability Scores Str +2, Dex +2, Con +2.
+
+Ape
+Starting Statistics
+Size Medium; Speed 30 ft., climb 30 ft.; AC +1 natural armor; Attack bite (1d4), 2 claws (1d4); Ability Scores Str 13, Dex 17, Con 10, Int 2, Wis 12, Cha 7; Special Qualities low-light vision, scent.
+4th-Level Advancement
+Size Large; AC +2 natural armor; Attack bite (1d6), 2 claws (1d6); Ability Scores Str +8, Dex –2, Con +4.
+
+Archaeopteryx
+Source PZO1140
+This primeval toothed bird has bright plumage, but it is a relatively poor flyer.
+Starting Statistics
+Size Small; Speed 30 ft., fly 40 ft. (poor); AC +1 natural armor; Attack bite (1d4); Ability Scores Str 8, Dex 15, Con 12, Int 2, Wis 13, Cha 7; Special Qualities low-light vision.
+4th-Level Advancement
+Ability Scores Dex +2, Con +2.
+
+Archelon
+Starting Statistics
+Size Medium; Speed 15 ft., swim 50 ft.; AC +10 natural armor; Attack bite (1d6); Ability Scores Str 8, Dex 10, Con 9, Int 2, Wis 13, Cha 6; Special Qualities low-light vision, hold breath, scent.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack bite (1d8), Ability Scores Str +8, Dex –2, Con +4.
+
+Armorfish
+Source PZO1140
+The armorfish is a primeval aquatic creature that has exceptionally thick armored scales along its head and back.
+Starting Statistics
+Size Small; Speed swim 30 ft.; AC +6 natural armor; Attack bite (1d4); Ability Scores Str 13, Dex 13, Con 15, Int 1, Wis 8, Cha 2; Special Qualities aquatic, low-light vision, scent.
+4th-Level Advancement
+Size Medium; AC +2 natural armor; Attack bite (1d6); Ability Scores Str +2, Dex –2, Con +4.
+
+Arsinoitherium
+Starting Statistics
+Size Medium; Speed 30 ft.; AC +4 natural armor; Attack gore (1d8); Ability Scores Str 14, Dex 12, Con 15, Int 2, Wis 13, Cha 3; Special Qualities low-light vision, scent.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack gore (2d8); Ability Scores Str +8, Dex –2, Con +4; Special Qualities powerful charge (gore, 2d8), trample.
+
+Aurochs
+Starting Statistics
+Size Medium; Speed 40 ft.; AC +1 natural armor, Attack gore (1d6); Ability Scores Str 14, Dex 12, Con 12, Int 2, Wis 11, Cha 4; Special Qualities low-light vision, scent.
+7th-Level Advancement
+Size Large; AC +3 natural armor; Attack gore (1d8); Ability Scores Str +8, Dex –2, Con +4; Special Qualities stampede, trample.
+
+Axe Beak
+Starting Statistics
+Size Medium; Speed 50 ft.; Attack bite (1d6 + 1-1/2 Str); Ability Scores Str 10, Dex 17, Con 12, Int 2, Wis 11, Cha 10; Special Qualities low-light vision.
+4th-Level Advancement
+Size Large; AC +2 natural armor; Attack bite (1d8 + 1-1/2 Str); Ability Scores Str +8, Dex –2, Con +4; Special Attacks sudden charge.
+
+Baboon
+Starting Statistics
+Size: Small; Speed: 30 ft.; Attack bite (1d4); Ability Scores: Str 12, Dex 15, Con 12, Int 2, Wis 12, Cha 5; Special Qualities low-light vision.
+4th-Level Advancement
+Ability Scores Str +2, Con +2.
+
+Badger
+Starting Statistics
+Size Small; Speed 30 ft., burrow 10 ft., climb 10 ft.; AC +2 natural armor; Attack bite (1d4), 2 claws (1d3); Ability Scores Str 10, Dex 17, Con 15, Int 2, Wis 12, Cha 10; Special Attacks rage (as a barbarian, 6 rounds per day); Special Qualities low-light vision, scent.
+4th-Level Advancement
+Size Medium; Attack bite (1d6), 2 claws (1d4); Ability Scores Str +4, Dex –2, Con +2.
+
+Baluchitherium
+Starting Statistics
+Size Medium; AC +4 natural armor; Speed 40 ft.; Attack 2 hooves (1d4); Ability Scores Str 14, Dex 14, Con 15, Int 2, Wis 13, Cha 6; Special Qualities low-light vision, scent.
+7th-Level Advancement
+Size Large; AC +3 natural armor; Attack 2 hooves (1d6); Ability Scores Str +8, Dex –2, Con +4; Special Attacks trample.
+
+Basilosaurus
+Starting Statistics
+Size Medium; Speed swim 40 ft.; AC +1 natural armor; Attack bite (1d4), tail slap (1d4); Ability Scores Str 11, Dex 14, Con 12, Int 2, Wis 14, Cha 6; Special Qualities low-light vision, hold breath.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack bite (1d6), tail slap (1d6); Ability Scores Str +8, Dex –2, Con +4; Special Qualities blindsense 60 ft.
+
+Bat, Dire
+Starting Statistics
+Size Medium; Speed 20 ft., fly 40 ft. (good); Attack bite (1d6); Ability Scores Str 9, Dex 17, Con 9, Int 2, Wis 14, Cha 6; Special Qualities blindsense 40 ft.
+7th-Level Advancement
+Size Large; AC +3 natural armor; Attack bite (1d8); Ability Scores Str +8, Dex –2, Con +4.
+
+Bear
+Starting Statistics
+Size Small; Speed 40 ft.; AC +2 natural armor; Attack bite (1d4), 2 claws (1d3); Ability Scores Str 15, Dex 15, Con 13, Int 2, Wis 12, Cha 6; Special Qualities low-light vision, scent.
+4th-Level Advancement
+Size Medium; Attack bite (1d6), 2 claws (1d4); Ability Scores Str +4, Dex –2, Con +2.
+
+Bear, Grizzly
+Source PZO1140
+The infamous grizzly bear is a lumbering and quite impressive companion, particularly when it rises up on its hind feet to loom large. Grizzly bears strike fear into the hearts of most who encounter them.
+Starting Statistics
+Size Medium; Speed 40 ft.; AC +1 natural armor; Attack bite (1d6), 2 claws (1d4); Ability Scores Str 17, Dex 13, Con 13, Int 2, Wis 13, Cha 6; Special Qualities low-light vision, scent.
+7th-Level Advancement
+Size Large; AC +4 natural armor; Attack bite (1d8), 2 claws (1d6 plus grab); Ability Scores Str +4, Dex –2, Con +4.
+
+Bird
+Starting Statistics
+Size Small; Speed 10 ft., fly 80 ft. (average); AC +1 natural armor; Attack bite (1d4), 2 talons (1d4); Ability Scores Str 10, Dex 15, Con 12, Int 2, Wis 14, Cha 6; Special Qualities low-light vision.
+4th-Level Advancement
+Ability Scores Str +2, Con +2.
+
+Bird, Owl (Giant)
+Source PZO1140
+Unlike the magical beast of the same name, this owl is a mundane but unusually large specimen of its kind, with powerful wings and deadly talons.
+Starting Statistics
+Size Medium; Speed 10 ft., fly 60 ft. (average); AC +2 natural armor; Attack 2 talons (1d4); Ability Scores Str 10, Dex 17, Con 13, Int 2, Wis 13, Cha 6; Special Qualities low-light vision.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack 2 talons (1d6); Ability Scores Str +8, Dex –2, Con +4; Special Attacks rend (2 talons, 1d6); Racial Skill Modifiers +4 Stealth.
+
+Bird, Blackwisp Egret
+Source: PAP91
+Starting Statistics
+Size Small; Speed 30 ft., fly 30 ft. (poor); AC +1 natural; Attack bite (1d4); Ability Scores Str 8, Dex 17, Con 8, Int 2, Wis 13, Cha 5; Special Qualities low-light vision.
+4th-Level Advancement
+Size Medium; Attack bite (1d6); Ability Scores Str +4, Dex –2, Con +2; Special Qualities deceptive target.
+
+Boar
+Starting Statistics
+Size Small; Speed 40 ft.; AC +6 natural armor; Attack gore (1d6); Ability Scores Str 13, Dex 12, Con 15, Int 2, Wis 13, Cha 4; Special Qualities low-light vision, scent.
+4th-Level Advancement
+Size Medium; Attack gore (1d8); Ability Scores Str +4, Dex –2, Con +2; Special Attacks ferocity.
+
+Bristle Boar
+Source: PPC:Orcs
+Starting Statistics
+Size Small; Speed 40 ft.; AC +6 natural armor; Attack gore (1d6); Ability Scores Str 15, Dex 10, Con 15, Int 2, Wis 11, Cha 4; SQ low-light vision.
+4th-Level Advancement
+Size Medium; Attack gore (1d8); Ability Scores Str +4, Dex –2, Con +2; Special Attacks spines.
+
+Brachiosaurus
+Starting Statistics
+Size Medium; Speed 30 ft.; AC +3 natural armor; Attack tail (2d4); Ability Scores Str 13, Dex 14, Con 11, Int 2, Wis 13, Cha 10; Special Qualities low-light vision, scent.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack tail (2d6); Ability Scores Str +8, Dex –2, Con +4; Special Qualities trample (1d8).
+
+Brontotherium
+Source PRG:B6
+Starting Statistics
+Size Medium; Speed 40 ft.; AC +8 natural armor; Attack slam (1d10); Ability Scores Str 12, Dex 15, Con 12, Int 2, Wis 17, Cha 7; Special Qualities low-light vision, scent.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack slam (2d6); Ability Scores Str +8, Dex –2, Con +4; Special Qualities powerful charge (slam), trample.
+
+Bull, War
+Source: Orcs
+Starting Statistics
+Size Medium; Speed 40 ft.; AC +4 natural armor; Attack gore (1d8); Ability Scores Str 15, Dex 14, Con 13, Int 2, Wis 11, Cha 4; SQ low-light vision.
+4th-Level Advancement
+Size Large; AC +3 natural armor; Attack gore (2d6); Ability Scores Str +8, Dex –2, Con +4; Special Attacks trample.
+
+Bustard
+Source PZO1140
+The bustard is a sizable bird with long legs. Bustards can fly, but they do so relatively poorly and prefer to walk or run.
+Starting Statistics
+Size Medium; Speed 20 ft., fly 50 ft. (poor); AC +2 natural armor; Attack bite (1d6), 2 talons (1d4); Ability Scores Str 13, Dex 14, Con 13, Int 2, Wis 13, Cha 5; Special Qualities low-light vision.
+4th-Level Advancement
+Ability Scores Str +2, Con +2.
+
+Camel
+Starting Statistics
+Size Large; Speed 50 ft.; AC +1 natural armor; Attack bite (1d4) or spit (ranged touch attack, target is sickened for 1d4 rounds, range 10 feet); Ability Scores Str 18, Dex 16, Con 14, Int 2, Wis 11, Cha 4; Special Qualities low-light vision, scent.
+4th-Level Advancement
+Ability Scores Str +2, Con +2.
+
+Cameroceras
+Source B5
+Starting Statistics
+Size Medium; AC +1 natural; Speed 5 ft., swim 20 ft., jet 90 ft.; Attack tentacles (1d4 plus grab), bite (1d3); Ability Scores Str 14, Dex 15, Con 11, Int 2, Wis 12, Cha 2; Special Qualities low-light vision, pressure adaptation.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack tentacles (1d6 plus grab), bite (1d4); Ability Scores Str +4, Dex -2, Con +2; Special Attacks constrict (1d6).
+
+Capybara
+Source PZO1140
+This large, brown-furred rodent is equally at home on land or in the water, and is often found near lakes and rivers.
+Starting Statistics
+Size Medium; Speed 30 ft., swim 20 ft.; AC +1 natural armor; Attack bite (1d6); Ability Scores Str 12, Dex 15, Con 12, Int 2, Wis 13, Cha 5; Special Qualities low-light vision, scent.
+4th-Level Advancement
+Ability Scores Str +2, Con +2.
+
+Cat, Big
+Starting Statistics
+Size Medium; Speed 40 ft.; AC +1 natural armor; Attack bite (1d6), 2 claws (1d4); Ability Scores Str 13, Dex 17, Con 13, Int 2, Wis 15, Cha 10; Special Attacks rake (1d4); Special Qualities low-light vision, scent.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack bite (1d8), 2 claws (1d6); Ability Scores Str +8, Dex –2, Con +4; Special Attacks grab, pounce, rake (1d6).
+
+Cat, Small
+Starting Statistics
+Size Small; Speed 50 ft.; AC +1 natural armor; Attack bite (1d4 plus trip), 2 claws (1d2); Ability Scores Str 12, Dex 21, Con 13, Int 2, Wis 12, Cha 6; Special Qualities low-light vision, scent.
+4th-Level Advancement
+Size Medium; Attack bite (1d6), 2 claws (1d3); Ability Scores Str +4, Dex –2, Con +2; Special Qualities sprint.
+
+Cattle
+Source PZO1140
+Commonly seen as a docile farm animal, an ill-tempered bull or cow can be an effective animal companion as well.
+Starting Statistics
+Size Medium; Speed 40 ft.; AC +2 natural armor; Attack gore (1d6); Ability Scores Str 14, Dex 12, Con 12, Int 2, Wis 11, Cha 4; Special Qualities low-light vision, scent.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack gore (1d8); Ability Scores Str +8, Dex –2, Con +4; Special Qualities powerful charge (gore, 1d8), trample.
+
+Ceratosaurus
+Source B5
+Starting Statistics
+Size Medium; Speed 40 ft.; AC +4 natural armor; Attack bite 1d8; Ability Scores Str 14, Dex 17, Con 11, Int 2, Wis 11, Cha 10; Special Qualities low-light vision, scent, trip.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack bite 2d6; Ability Scores Str +8, Dex -2, Con +4; Special Qualities blood rage*, ferocity.
+*Blood Rage When a ceratosaurus takes damage in combat, on its next turn it can fly into a rage as a free action. It gains +2 Constitution and +2 Strength, but takes a –2 penalty to its AC. The rage lasts as long as the battle or 1 minute, whichever is shorter. It cannot end its rage voluntarily.
+
+Chalicotherium
+Source B5
+Starting Statistics
+Size Medium; Speed 30 ft., climb 30 ft.; AC +4 natural; Attack 2 claws (1d4); Ability Scores Str 12, Dex 14, Con 13, Int 2, Wis 13, Cha 3; Special Qualities low-light vision, scent.
+7th-Level Advancement
+Size Large; AC +2 natural; Attack 2 claws (1d6); Ability Scores Str +8, Dex -2, Con +4; Special Attack rend (2 claws, 1d6).
+
+Chameleon, Giant
+Starting Statistics
+Size Medium; Speed 30 ft., climb 30 ft.; Attack bite (1d6); Ability Scores Str 12, Dex 14, Con 14, Int 2, Wis 11, Cha 7; Special Qualities +10 Stealth when still, low-light vision.
+4th-Level Advancement
+Size Large; Speed 40 ft., climb 40 ft.; AC +2 natural armor; Attack bite (1d8); Ability Scores Str +4, Dex –2, Con +2; Special Attacks pull (tongue, 5 ft.), tongue.
+
+Chimpanzee
+Source PZO1140
+This small primate is more dangerous than its size suggests.
+Starting Statistics
+Size Small; Speed 30 ft., climb 30 ft.; AC +1 natural armor; Attack bite (1d4), slam (1d3 plus grab); Ability Scores Str 13, Dex 17, Con 12, Int 2, Wis 12, Cha 7; Special Qualities low-light vision, scent.
+4th-Level Advancement
+Size Medium; Attack bite (1d6), slam (1d4 plus grab); Ability Scores Str +4, Dex –2, Con +2.
+
+Crocodile
+Starting Statistics
+Size Small; Speed 20 ft., swim 30 ft.; AC +4 natural armor; Attack bite (1d6 plus grab); Ability Scores Str 15, Dex 14, Con 15, Int 1, Wis 12, Cha 2; Special Qualities hold breath, low-light vision.
+4th-Level Advancement
+Size Medium; Attack bite (1d8) or tail slap (1d12); Ability Scores Str +4, Dex –2, Con +2; Special Attacks death roll, sprint.
+
+Deer, Reindeer
+Source PZO1140
+A denizen of the frozen tundra, the reindeer is a sure-footed companion in icy terrain, and it can used for transportation as well as defense.
+Starting Statistics
+Size Medium; Speed 50 ft.; AC +2 natural armor; Attack gore (1d6); Ability Scores Str 13, Dex 14, Con 13, Int 2, Wis 12, Cha 5; Special Qualities low-light vision, scent, snow adaptation (ignore difficult terrain from ice and snow).
+4th-Level Advancement
+Ability Scores Str +2, Dex +2, Con +2.
+
+Deer, Ringhorn
+Source PAP115
+Starting Statistics
+Size Small; Speed 40 ft.; AC +1 natural; Attack 2 hooves (1d3); Ability Scores Str 11, Dex 18, Con 11, Int 2, Wis 12, Cha 13; Special Qualities low-light vision, scent.
+4th-Level Advancement
+Size Medium; Attack 2 hooves (1d4); Ability Scores Str +2, Dex –2, Con +2; Bonus Feat Nimble Moves.
+
+Deinonychus
+Starting Statistics
+Size Small; Speed 60 ft.; AC +1 natural armor; Attack 2 talons (1d6), bite (1d4); Ability Scores Str 11, Dex 17, Con 17, Int 2, Wis 12, Cha 14; Special Qualities low-light vision, scent.
+7th-Level Advancement
+Size Medium; AC +2 natural armor; Attack 2 talons (1d8), bite (1d6), 2 claws (1d4) Ability Scores Str +4, Dex –2, Con +2; Special Attacks pounce.
+
+Deinotherium
+Source PRG:B6
+Starting Statistics
+Size Medium; Speed 30 ft.; AC +4 natural; Attack slam (1d6), gore (1d8); Ability Scores Str 14, Dex 10, Con 15, Int 2, Wis 13, Cha 3; Special Qualities low-light vision, scent.
+7th-Level Advancement
+Size Large; AC +2 natural; Attack slam (1d8), gore (2d6); Ability Scores Str +8, Dex –2, Con +4; Special Qualities sweep, trample.
+
+Devil Monkey
+Source PRG:B6
+Starting Statistics
+Size Medium; Speed 30 ft.; AC +3 natural armor; Attack bite (1d8); Ability Scores Str 15, Dex 19, Con 8, Int 2, Wis 15, Cha 10; Special Qualities low-light vision.
+4th-Level Advancement
+Size Large; AC +2 natural armor; Speed 40 ft.; Attack bite (1d10); Ability Scores Str +8, Dex –2, Con +4; Special Qualities puncture armor, rock throwing.
+
+Digmaul
+Source B5
+Starting Statistics
+Size Small; Speed 50 ft.; AC +1 natural armor; Attack bite (1d4), 2 claws (1d2), tail (1d2); Ability Scores Str 10, Dex 21, Con 13, Int 2, Wis 12, Cha 6; Special Qualities ball tail, low-light vision, scent.
+4th-Level Advancement
+Size Medium; Attack bite (1d6), 2 claws (1d3), tail (1d3); Ability Scores Str +4, Dex -2, Con +2.
+
+Dimetrodon
+Starting Statistics
+Size Medium; Speed 30 ft.; AC +2 natural armor; Attack bite (1d8); Ability Scores Str 12, Dex 16, Con 14, Int 1, Wis 12, Cha 3; Special Attacks tearing bite.
+7th-Level Advancement
+Size Large; AC +1 natural armor; Attack bite (2d8); Ability Scores Str +8, Dex –2, Con +4.
+
+Dimorphodon
+Source: PRG:B4
+Starting Statistics
+Size Small; Speed 10 ft., fly 80 ft. (clumsy); AC +1 natural armor; Attack bite (1d4); Ability Scores Str 8, Dex 15, Con 12, Int 2, Wis 14, Cha 6; SQ low-light vision, scent.
+4th-Level Advancement
+Attack bite (1d6); Ability Scores Str +2, Con +2; Special Attacks poison (frequency 1 round (6); effect 1 Str damage; cure 1 save, Con-based DC).
+
+Diplodocus
+Source: PRG:B4
+Starting Statistics
+Size Medium; Speed 30 ft.; AC +6 natural armor; Attack tail (1d8); Ability Scores Str 10, Dex 14, Con 10, Int 2, Wis 12, Cha 10; SQ low-light vision, scent.
+7th-Level Advancement
+Size Large; AC +3 natural armor; Attack tail (2d6); Ability Scores Str +6, Con +4; SQ tail lash.
+
+Dog
+Starting Statistics
+Size Small; Speed 40 ft.; AC +2 natural armor; Attack bite (1d4); Ability Scores Str 13, Dex 17, Con 15, Int 2, Wis 12, Cha 6; Special Qualities low-light vision, scent.
+4th-Level Advancement
+Size Medium; Attack bite (1d6); Ability Scores Str +4, Dex –2, Con +2.
+
+Dolphin
+Starting Statistics
+Size Medium; Speed swim 80 ft.; AC +1 natural armor; Attack slam (1d4); Ability Scores Str 12, Dex 15, Con 13, Int 2, Wis 12, Cha 6; Special Qualities low-light vision, hold breath.
+4th-Level Advancement
+Ability Scores Str +2, Dex +2, Con +2; Special Qualities blindsight 120 ft.
+
+Drake
+Source: PZO9470
+Starting Statistics
+Size Tiny; Alignment any nongood; Speed 20 ft.; Attack bite (1d3), tail* (1d3); Ability Scores Str 8, Dex 17, Con 11, Int 4, Wis 10, Cha 7; Languages Draconic.
+Note: Complete rules for Drake companions can be found here.
+*This is a secondary natural attack.
+
+Dunkleosteus
+Source PRG:B6
+Starting Statistics
+Size Medium; Speed swim 60 ft.; AC +4 natural armor; Attack bite (1d8); Ability Scores Str 14, Dex 18, Con 10, Int 1, Wis 13, Cha 6; Special Qualities low-light vision.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack bite (2d6); Ability Scores Str +8, Dex –2, Con +4; Special Qualities grab (bite), gulp.
+
+Eel, Electric
+Starting Statistics
+Size Small; Speed 5 ft., swim 30 ft.; Attack bite (1d6); Ability Scores Str 12, Dex 14, Con 18, Int 1, Wis 10, Cha 6; Special Qualities amphibious, low-light vision, electricity resistance 5.
+4th-Level Advancement
+AC +2 natural armor; Ability Scores Dex +2, Con +2; Special Qualities electricity (1d6), electricity resistance 10.
+
+Elasmosaurus
+Starting Statistics
+Size Medium; Speed 20 ft., swim 50 ft.; AC +2 natural armor; Attack bite (1d8); Ability Scores Str 10, Dex 18, Con 12, Int 2, Wis 13, Cha 9; Special Qualities low-light vision, scent.
+4th-Level Advancement
+Size Large; AC +3 natural armor; Attack bite (2d6); Ability Scores Str +8, Dex –2, Con +4.
+
+Elasmotherium
+Source PRG:B6
+Starting Statistics
+Size Medium; Speed 40 ft.; AC +4 natural armor; Attack gore (1d8); Ability Scores Str 14, Dex 12, Con 15, Int 2, Wis 17, Cha 3; Special Qualities low-light vision, scent.
+7th-Level Advancement
+Size Large; AC +3 natural armor; Attack gore (2d6); Ability Scores Str +8, Dex –2, Con +4; Special Attacks impaling horn, powerful charge (gore).
+
+Elephant/Mastodon
+Starting Statistics
+Size Medium; Speed 40 ft.; AC +4 natural armor; Attack gore (1d8), slam (1d6); Ability Scores Str 14, Dex 14, Con 13, Int 2, Wis 13, Cha 7; Special Abilities low-light vision, scent.
+7th-Level Advancement
+Size Large; AC +3 natural armor; Attack gore (2d6), slam (1d8); Ability Scores +8 Str, –2 Dex, +4 Con; Special Abilities trample (2d6).
+
+Elk
+Starting Statistics
+Size Medium; Speed 50 ft.; AC +1 natural armor; Attack gore (1d6) or 2 hooves (1d3); Ability Scores Str 12, Dex 17, Con 14, Int 2, Wis 15, Cha 5; Special Qualities low-light vision.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack gore (1d8) or 2 hooves (1d4); Ability Scores Str +8, Dex –2, Con +4.
+
+Embolotherium
+Source: PAP91
+Starting Statistics
+Size Medium; Speed 30 ft.; AC +6 natural; Attack bite (1d6); Ability Scores Str 14, Dex 10, Con 13, Int 2, Wis 13, Cha 3; Special Qualities low-light vision.
+7th-Level Advancement
+Size Large; AC +2 natural; Attack bite (1d8); Ability Scores Str +8, Dex –2, Con +4; Special Qualities trample.
+
+Eohippus
+Source PZO1140
+The eohippus is a small, primeval ancestor of the modern horse. It has three-toed feet rather than hooves.
+Starting Statistics
+Size Small; Speed 40 ft.; AC +2 natural armor; Attack bite (1d4); Ability Scores Str 11, Dex 15, Con 12, Int 2, Wis 11, Cha 4; Special Qualities low-light vision, scent.
+4th-Level Advancement
+Ability Scores Dex +2, Con +2.
+
+Faerie Mount
+Source PZO90119
+Short legs and overlarge ears make this broad-chested canine seem almost comical.
+Starting Statistics
+Size Small; Speed 30 ft.; AC +1 natural armor; Attack bite (1d4); Ability Scores Str 9, Dex 12, Con 15, Int 2, Wis 13, Cha 12; Special Qualities low-light vision, Scent, Stability
+4th-Level Advancement
+Ability Scores: Size Medium; Speed 40ft.; Attack Bite (1d6); Str +4 Dex -2, Con +2; Special Qualities Sure-Footed.
+
+Falcon
+Source PZO1140
+This swift raptor has amazing eyesight and sharp talons.
+Starting Statistics
+Size Small; Speed 10 ft., fly 90 ft. (good); AC +1 natural armor; Attack bite (1d4), 2 talons (1d3); Ability Scores Str 10, Dex 15, Con 11, Int 2, Wis 15, Cha 6; Special Qualities low-light vision.
+4th-Level Advancement
+Ability Scores Dex +2, Con +2.
+
+Frilled Lizard, Giant
+Source PZO1140
+This large lizard can display a frightening frill on its neck when it charges.
+Starting Statistics
+Size Medium; Speed 30 ft., climb 30 ft.; AC +4 natural armor; Attack bite (1d6), tail (1d4); Ability Scores Str 13, Dex 15, Con 13, Int 2, Wis 14, Cha 10; Special Attacks intimidating charge; Special Qualities low-light vision, scent.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack bite (1d8), tail (1d6); Ability Scores Str +8, Dex –2, Con +4.
+
+Frog, Giant
+Starting Statistics
+Size Medium; Speed 30 ft.,swim 30 ft.; AC +1 natural armor; Attack bite (1d6); Ability Scores Str 15, Dex 13, Con 16, Int 1, Wis 9, Cha 6; Special Qualities low-light vision, scent, tongue, pull.
+4th-Level Advancement
+Ability Scores Str +2, Dex +2; Special Qualities swallow whole.
+
+Gar
+Starting Statistics
+Size Medium; Speed swim 60 ft., AC +1 natural armor, Attack bite (1d6 plus grab); Ability Scores Str 14, Dex 14, Con 15, Int 1, Wis 13, Cha 2.
+7th-Level Advancement
+Size Large; AC +3 natural armor, Attack bite (1d8), Ability Scores +8 Str, –2 Dex, +4 Con.
+
+Gecko, Giant
+Starting Statistics
+Size Small; Speed 30 ft.; Attack bite (1d6); Ability Scores Str 11, Dex 15, Con 12, Int 2, Wis 14, Cha 7; Special Qualities expert climber, low-light vision.
+4th-Level Advancement
+Size Medium; Speed 40 ft.; AC +2 natural armor; Attack bite (2d4); Ability Scores Str +4, Dex –2, Con +2.
+
+Giganotosaurus
+Source PRG:B6
+Starting Statistics
+Size Medium; Speed 40 ft.; AC +4 natural armor; Attack bite (1d6), 2 claws (1d3); Ability Scores Str 14, Dex 16, Con 10, Int 2, Wis 15, Cha 10; Special Qualities low-light vision, scent.
+7th-Level Advancement
+Size Large; AC +3 natural armor; Attack bite (1d8), 2 claws (1d4); Ability Scores Str +8, Dex –2, Con +4; Special Qualities grab (bite).
+
+Giraffe
+Source: PRG:B4
+Starting Statistics
+Size Medium; Speed 50 ft., AC +2 natural armor; Attack 2 hooves (1d6); Ability Scores Str 16, Dex 17, Con 12, Int 2, Wis 13, Cha 7; SQ low-light vision, natural weapons.
+7th-Level Advancement
+Size Large; AC +2; Attack 2 hooves (1d8), slam (1d8); Ability Scores Str +4, Dex –2, Con +4.
+
+Goblin Dog
+Starting Statistics
+Size Small; Speed 50 ft.; Attack bite (1d4); Ability Scores Str 11, Dex 16, Con 11, Int 2, Wis 12, Cha 8; Special Qualities allergic reaction, low-light vision, scent.
+4th-Level Advancement
+Size Medium; AC +1 natural armor; Attack bite (1d6); Ability Scores Str +4, Dex –2, Con +4.
+
+Glyptodon
+Starting Statistics
+Size Medium; Speed 20 ft.; AC +5 natural armor, Attack 2 claws (1d8); Ability Scores Str 13, Dex 12, Con 13, Int 2, Wis 13, Cha 6; Special Qualities low-light vision, scent.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack 2 claws (1d10); Ability Scores Str +8, Dex –2, Con +4
+
+Heron, Yolubilis
+Source PAP97
+Starting Statistics
+Size Medium; Speed 30 ft., fly 60 ft. (average); AC +2 natural armor; Attack bite (1d8); Ability Scores Str 13, Dex 15, Con 14, Int 2, Wis 12, Cha 9; Special Qualities low-light vision.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack bite (2d6); Ability Scores Str +8, Dex –2, Con +2; Special Attacks still predator.
+
+Hippopotamus
+Starting Statistics
+Size Medium; Speed 40 ft.; AC +6 natural armor; Attack bite (1d8); Ability Scores Str 11, Dex 12, Con 12, Int 2, Wis 13, Cha 5; Special Qualities low-light vision, scent, sweat.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack bite (2d8); Ability Scores Str +8, Dex –2, Con +4; Special Ability trample.
+
+Horse
+Starting Statistics
+Size Large; Speed 50 ft.; AC +4 natural armor; Attack bite (1d4), 2 hooves* (1d6); Ability Scores Str 16, Dex 13, Con 15, Int 2, Wis 12, Cha 6; Special Qualities low-light vision, scent.
+* This is a secondary natural attack, see Combat for more information on how secondary attacks work.
+4th-Level Advancement
+Ability Scores Str +2, Con +2; Special Qualities combat trained.
+
+Hyena
+Starting Statistics
+Size Small; Speed 50 ft.; AC +2 natural armor; Attack bite (1d4 plus trip); Ability Scores Str 10, Dex 17, Con 13, Int 2, Wis 13, Cha 6; Special Qualities low-light vision, scent.
+4th-Level Advancement
+Size Medium; Attack bite (1d6); Ability Scores Str +4, Dex –2, Con +2.
+
+Iguanodon
+Starting Statistics
+Size Medium; Speed 30 ft.; AC +3 natural armor; Attack claw (1d6); Ability Scores Str 17, Dex 15, Con 15, Int 2, Wis 12, Cha 7.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack claw (1d8); Ability Scores Str +8, Dex –2, Con +4; Special Attacks thumb spikes.
+
+Jackal, Switchback
+Source PAP115
+Starting Statistics
+Size Small; Speed 40 ft.; AC +1 natural armor; Attack bite (1d4), 2 claws (1d3); Ability Scores Str 11, Dex 13, Con 14, Int 2, Wis 13, Cha 6; Special Qualities low-light vision, problem solver, scent.
+4th-Level Advancement
+Ability Scores Dex +4, Con +2, Wis +2; Bonus Feat Overwhelm.
+
+Kangaroo
+Starting Statistics
+Size Medium; Speed 40 ft.; Attack kick (1d4); Ability Scores Str 12, Dex 14, Con 13, Int 2, Wis 11, Cha 7; Special Qualities low-light vision, scent.
+4th-Level Advancement
+Size Medium; Speed 50 ft.; AC +2 natural armor; Attack kick (1d6); Ability Scores Str +4, Dex +2, Con +2.
+
+Kaprosuchus
+Source B5
+Starting Statistics
+Size Medium; Speed 30 ft.; AC +3 natural armor; Attack bite (1d6), tail slap (1d6); Ability Scores Str 15, Dex 14, Con 15, Int 1, Wis 14, Cha 2; Special Qualities low-light vision.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack bite (1d8), tail slap (1d8); Ability Scores Str +6, Dex -2, Con +4; Special Attacks ramming snout.
+
+Kentrosaurus
+Source PRG:B6
+Starting Statistics
+Size Medium; Speed 40 ft.; AC +2 natural armor; Attack tail (1d8); Ability Scores Str 10, Dex 16, Con 10, Int 2, Wis 13, Cha 10; Special Qualities impaling strike, low-light vision, scent.
+7th-Level Advancement
+Size Large; AC +3 natural armor; Attack tail (2d6); Ability Scores Str +8, Dex –2, Con +4; Special Qualities defensive spikes.
+
+Llama
+Source PZO1140
+While some value it for its hair, the llama makes a fine animal companion as well, and it has traditionally been used as a beast of burden in mountainous regions.
+Starting Statistics
+Size Small; Speed 40 ft.; AC +1 natural armor; Attack bite (1d4); Ability Scores Str 11, Dex 16, Con 12, Int 2, Wis 13, Cha 9; Special Qualities low-light vision.
+4th-Level Advancement
+Size Medium; Attack bite (1d6); Ability Scores Str +4, Dex –2, Con +4.
+
+Manta Ray
+Starting Statistics
+Size Medium; Speed swim 60 ft.; AC +1 natural armor; Attack tail slap (1d4); Ability Scores Str 8, Dex 15, Con 11, Int 1, Wis 13, Cha 2; Special Qualities low-light vision.
+4th-Level Advancement
+Size: Large; AC +2 natural armor; Attack tail slap (1d6); Ability Scores Str +8, Dex –2, Con +4; Special Qualities blindsense 30 ft.
+
+Mantis, Giant
+Starting Statistics
+Size Medium; Speed 30 ft., climb 30 ft., fly 40 ft. (average); AC +3 natural armor; Attack 2 claws (1d4 plus grab); Ability Scores Str 10, Dex 15, Con 10, Int —, Wis 12, Cha 7; Special Attacks lunge; Special Qualities darkvision; CMD trip +8.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack 2 claws (1d6); Ability Scores Str +8, Dex –2, Con +4; Special Attacks mandibles (1d6 secondary attack against a grabbed target), sudden strike (may take a full attack in the surprise round).
+
+Marsupial Devil
+Source PZO1140
+This toothy marsupial has a perhaps undeserved reputation for ferocity.
+Starting Statistics
+Size Small; Speed 20 ft.; AC +1 natural armor; Attack bite (1d6); Ability Scores Str 15, Dex 13, Con 12, Int 2, Wis 10, Cha 7; Special Qualities low-light vision, scent.
+4th-Level Advancement
+Ability Scores Str +4, Con +2.
+
+Marsupial Lion
+Source PZO1140
+Somewhat slimmer than the standard lion, the marsupial lion is no less dangerous in battle.
+Starting Statistics
+Size Medium; Speed 30 ft., climb 20 ft.; AC +1 natural armor; Attack bite (1d6), 2 claws (1d4); Ability Scores Str 12, Dex 16, Con 13, Int 2, Wis 13, Cha 7; Special Qualities low-light vision, scent.
+7th-Level Advancement
+Size Large; Speed climb 30 ft.; AC +2 natural armor; Attack bite (1d8), 2 claws (1d6 plus grab); Ability Scores Str +8, Dex –2, Con +4.
+
+Megalania
+Starting Statistics
+Size Medium; Speed 30 ft.; AC +1 natural armor; Attack bite (1d6 plus grab); Ability Scores Str 13, Dex 17, Con 12, Int 2, Wis 12, Cha 6; Special Qualities low-light vision, scent.
+7th-Level Advancement
+Size Large; AC +1 natural armor; Attack bite (1d8 plus grab and poison); Ability Scores Str +4, Dex –2, Con +4.
+
+Megaloceros
+Starting Statistics
+Size Medium; Speed 50 ft.; AC +3 natural armor, Attack gore (1d8); Ability Scores Str 12, Dex 17, Con 14, Int 2, Wis 15, Cha 5; Special Abilities low-light vision, scent.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack gore (2d6), 2 hooves (1d4)*; Ability Scores Str +8, Dex –2, Con +4; Special Qualities powerful charge (2d6).
+* This is a secondary natural attack, see Combat for more information on how secondary attacks work.
+
+Megatherium
+Starting Statistics
+Size Medium; Speed 40 ft., climb 10 ft.; AC +5 natural armor, Attack 2 claws (1d4); Ability Scores Str 9, Dex 14, Con 11, Int 2, Wis 13, Cha 6; Special Qualities low-light vision, scent.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack 2 claws (1d6), Ability Scores Str +8, Dex –2, Con +4; Special Qualities rend (2 claws, 1d8).
+
+Moa
+Source B5
+Starting Statistics
+Size Medium; Speed 30 ft.; AC +1 natural armor; Attack 2 talons (1d3); Ability Scores Str 13, Dex 16, Con 12, Int 2, Wis 11, Cha 9; Special Qualities low-light vision.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack 2 talons (1d4); Ability Scores Str +4, Con +2.
+
+Mokele-Mbembe
+Source PRG:B6
+Starting Statistics
+Size Medium; Speed 30 ft., swim 30 ft.; AC +5 natural armor; Attack bite (1d8), tail slap (1d8, reach 10 ft.); Ability Scores Str 16, Dex 17, Con 10, Int 2, Wis 15, Cha 11; Special Qualities low-light vision, scent.
+9th-Level Advancement
+Size Large; AC +4 natural armor; Attack bite (2d6), tail slap (2d6, reach 15 ft.); Ability Scores Str +8, Dex –2, Con +4; Special Qualities trample, whip tail.
+
+Mole, Giant
+Source PZO1140
+This large-clawed burrowing mammal is slow but can burrow through loose earth and soil with ease to surprise its foes.
+Starting Statistics
+Size Small; Speed 20 ft., burrow 10 ft.; AC +1 natural armor; Attack 2 claws (1d4); Ability Scores Str 12, Dex 15, Con 13, Int 2, Wis 10, Cha 5; Special Qualities low-light vision, tremorsense 30 ft.
+4th-Level Advancement
+Size Medium; Speed burrow 20 ft.; AC +2 natural armor; Attack 2 claws (1d6); Ability Scores Str +2, Dex –2, Con +4; Special Attacks rend (2 claws, 1d6).
+
+Monitor Lizard
+Starting Statistics
+Size Small; Speed 30 ft., swim 30 ft.; AC +1 natural armor; Attack bite (1d6 plus grab); Ability Scores Str 13, Dex 17, Con 12, Int 2, Wis 12, Cha 6; Special Qualities low-light vision, scent
+7th-Level Advancement
+Size Medium, AC +2 natural armor; Attack bite (1d8 plus grab and poison [frequency 1 hour (6), effect 1 Dex damage, cure 1 save, Con-based DC]); Ability Scores Str +4, Dex –2, Con +4
+
+Moose
+Source PZO1140
+Powerful and often ill tempered, the moose is an intimidating choice for an animal companion.
+Starting Statistics
+Size Medium; Speed 40 ft.; AC +2 natural armor; Attack gore (1d6), 2 hooves (1d3); Ability Scores Str 12, Dex 15, Con 14, Int 2, Wis 13, Cha 7; Special Qualities low-light vision.
+7th-Level Advancement
+Size Large; AC +3 natural armor; Attack gore (1d8), 2 hooves (1d4); Ability Scores Str +6, Dex –2, Con +4; Special Attacks powerful charge (gore, 1d8).
+
+Moray Eel, Giant
+Starting Statistics
+Size Medium; AC +5 natural armor; Speed swim 30 ft.; Attack bite (1d8 plus grab); Ability Scores Str 14, Dex 16, Con 12, Int 1, Wis 12, Cha 8; Special Qualities low-light vision.
+7th-Level Advancement
+Size Large; AC +3 natural armor; Attack bite (2d6); Ability Scores Str +8, Dex –2, Con +4; Special Qualities gnaw.
+
+Octopus
+Starting Statistics
+Size Small; AC +1 natural armor; Speed 20 ft., swim 30 ft., jet 200 ft.; Attack bite (1d3), tentacles (grab); Ability Scores Str 12, Dex 17, Con 14, Int 2, Wis 12, Cha 3; Special Qualities low-light vision, ink cloud.
+4th-Level Advancement
+Attack bite (1d3 plus poison [frequency 1 round (6), effect 1 Str damage, cure 1 save, Con-based DC]); Ability Scores Str +2, Con +2.
+
+Ornithomimosaur
+Source PZO1140
+This bipedal dinosaur has long legs built for speed and a long neck that gives it an ostrichlike profile.
+Starting Statistics
+Size Medium; Speed 40 ft.; AC +1 natural armor; Attack 2 claws (1d8); Ability Scores Str 11, Dex 15, Con 12, Int 2, Wis 13, Cha 8; Special Qualities low-light vision, scent.
+7th-Level Advancement
+Speed 60 ft.; AC +2 natural armor; Attack 2 claws (1d8 plus 1d4 bleed); Ability Scores Str +2, Dex +2, Con +2; Special Quality sprint.
+
+Ostrich
+Source PCS:OLoP
+Starting Statistics
+Size Small; Speed 40 ft.; AC +1 natural armor; Attack claw (1d4); Ability Scores Str 13, Dex 16, Con 12, Int 2, Wis 13, Cha 11; Special Qualities low-light vision.
+4th-Level Advancement
+Size Medium; Speed 60 ft.; Attack claw (1d6); Ability Scores Str +4, Dex –2, Con +2; Special Qualities crouch.
+
+Pachycephalosaurus
+Starting Statistics
+Size Medium; Speed 30 ft.; AC +3 natural armor; Attack gore (1d8); Ability Scores Str 15, Dex 16, Con 13, Int 2, Wis 12, Cha 5.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack gore (1d10); Ability Scores Str +8, Dex –2, Con +4; Special Attacks clobbering charge.
+
+Panda
+Source PZO1140
+Normally slow moving and docile, pandas are capable of surprising bursts of activity when needed.
+Starting Statistics
+Size Small; Speed 30 ft.; AC +2 natural armor; Attack bite (1d4), 2 claws (1d3); Ability Scores Str 13, Dex 12, Con 14, Int 2, Wis 13, Cha 9; Special Qualities low-light vision.
+7th-Level Advancement
+Size Medium; AC +3 natural armor; Attack bite (1d6), 2 claws (1d4); Ability Scores Str +4, Dex –2, Con +4; Special Attacks powerful bite.
+
+Parasaurolophus
+Starting Statistics
+Size Medium; Speed 30 ft.; AC +2 natural armor; Attack tail (1d6); Ability Scores Str 11, Dex 18, Con 9, Int 2, Wis 13, Cha 10; Special Qualities low-light vision, scent.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack tail (1d8); Ability Scores Str +8, Dex –2, Con +4; Special Qualities trample (1d8).
+
+Plesiosaurus
+Source B5
+Starting Statistics
+Size Medium; Speed 5 ft., swim 60 ft.; AC +1 natural armor; Attack bite (1d8); Ability Scores Str 12, Dex 15, Con 12, Int 2, Wis 15, Cha 9; Special Qualities keen scent, low-light vision, scent.
+4th-Level Advancement
+Size Large; AC +3 natural armor; Attack bite (2d6); Ability Scores Str +8, Dex -2, Con +4; Special Qualities ambush attack +1d6, bleed (1).
+
+Pony
+Starting Statistics
+Size Medium; Speed 40 ft.; AC +2 natural armor; Attack 2 hooves (1d3); Ability Scores Str 13, Dex 13, Con 12, Int 2, Wis 11, Cha 4; Special Qualities low-light vision, scent.
+4th-Level Advancement
+Ability Scores Str +2, Con +2; Special Qualities combat trained.
+
+Porcupine, Giant
+Source PZO1140
+This lumbering forest creature is adorned with an array of long, sharp quills that protrude from its coarse pelt.
+Starting Statistics
+Size Small; Speed 30 ft.; AC +1 natural armor; Attack tail slap (1d4); Ability Scores Str 14, Dex 12, Con 15, Int 2, Wis 13, Cha 5; Special Attacks quills (as porcupine quills; Special Qualities low-light vision, scent.
+4th-Level Advancement
+Size Medium; AC +2 natural armor; Attack tail slap (1d6); Ability Scores Str +2, Dex –2, Con +4; Special Attacks quills (as giant porcupine quills).
+
+Prionosuchus
+Source PZO1140
+This primeval crocodile is equally effective in the water and on land. Its jaws are capable of crushing things with great force.
+Starting Statistics
+Size Medium; Speed 20 ft., swim 30 ft.; AC +2 natural armor; Attack bite (1d8 plus grab); Ability Scores Str 13, Dex 14, Con 15, Int 1, Wis 12, Cha 4; Special Attacks constrict (1d8); Special Qualities scent.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack bite (2d6 plus grab); Ability Scores Str +4, Dex –2, Con +4; Special Attacks constrict (2d6).
+
+Pteranodon
+Starting Statistics
+Size Medium; Speed 10 ft., fly 50 ft. (clumsy); Attack bite (1d8); Ability Scores Str 8, Dex 21, Con 10, Int 2, Wis 14, Cha 12; Special Qualities low-light vision, scent.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack bite (2d6); Ability Scores Str +8, Dex –2, Con +4.
+
+Python, Riding
+Source: PRG:MC
+Note This companion was originally intended for kobolds. Consult your GM before choosing this animal. A kobold cavalier can select this as a mount instead of a dog or pony.
+Starting Statistics
+Size Medium; Speed 30 ft.; AC +1 natural armor; Attack bite (1d6); Ability Scores Str 11, Dex 14, Con 13, Int 1, Wis 10, Cha 4; CMD (can’t be tripped); Special Qualities blindsight 60 ft.
+4th-Level Advancement
+Ability Scores Str +2, Con +2; Special Qualities combat training (see Handle Animal).
+
+Quetzalcoatlus
+Source PRG:B6
+Starting Statistics
+Size Medium; AC +2 natural armor; Speed 30 ft., fly 50 ft. (clumsy); Attack bite (1d8); Ability Scores Str 9, Dex 21, Con 10, Int 2, Wis 14, Cha 12; Special Qualities low-light vision, scent.
+9th-level Advancement
+Size Large; AC +3 natural armor; Attack bite (2d6/×3), 2 wings (1d4); Ability Scores Str +8, Dex –2, Con +4; Special Qualities razor-sharp beak.
+
+Ram
+Starting Statistics
+Size Small; Speed 40 ft.; AC +1 natural; Attack gore (1d3); Ability Scores Str 10, Dex 17, Con 11, Int 2, Wis 14, Cha 7; Special Qualities low-light vision, scent.
+4th-Level Advancement
+Size Medium; Attack gore (1d4); Ability Scores Str +4, Dex –2, Con +2; Special Attacks powerful charge (1d8); Bonus Feat Improved Bull Rush.
+
+Ram, Barbed
+Source: PAP91
+Starting Statistics
+Size Small; Speed 40 ft.; AC +1 natural; Attack gore (1d4); Ability Scores Str 10, Dex 17, Con 11, Int 2, Wis 14, Cha 7; Special Qualities low-light vision, scent.
+4th-Level Advancement
+Size Medium; Attack gore (1d6); Ability Scores Str +4, Dex –2, Con +2; Special Attacks bleed (gore, 1), powerful charge (gore, 1d8).
+
+Rat, Dire
+Starting Statistics
+Size Small; Speed 40 ft., climb 20 ft., swim 20 ft.; Attack bite (1d4); Ability Scores Str 10, Dex 17, Con 12, Int 2, Wis 12, Cha 4; Special Qualities low-light vision, scent.
+4th-Level Advancement
+Attack bite (1d4 plus disease [filth fever: onset 1d3 days; frequency 1/day; effect 1d3 Dex damage and 1d3 Con damage; cure 2 consecutive saves, Con-based DC]); Ability Scores Str +2, Con +2.
+
+Raven, Giant
+Source PRG:B6
+Starting Statistics
+Size Small; Speed 20 ft., fly 50 ft. (average); Attack bite (1d4); Ability Scores Str 8, Dex 13, Con 10, Int 2, Wis 15, Cha 7; Special Qualities low-light vision, scavenger.
+4th-Level Advancement
+Size Medium; AC +2 natural armor; Attack bite (1d6); Ability Scores Str +4, Dex +2, Con +2.
+
+Rhinoceros
+Starting Statistics
+Size Medium; AC +4 natural armor; Speed 40 ft.; Attack gore (1d8); Ability Scores Str 14, Dex 14, Con 15, Int 2, Wis 13, Cha 5; Special Qualities scent.
+7th-Level Advancement
+Size Large; AC +3 natural armor; Attack gore (2d6); Ability Scores Str +8, Dex –2, Con +4; Special Qualities powerful charge (gore, 2d8).
+
+Roc
+Rocs taken as animal companions by druids or rangers are typically newly hatched birds—a baby roc is the size of a person and ready for flight and hunting within minutes of hatching. Unfortunately for druids seeking animal companions of legendary size, an animal companion roc is limited to Large size—still large enough for a Medium druid or ranger to use the flying beast as a mount.
+Starting Statistics
+Size Medium; AC +5 natural armor; Speed 20 ft., fly 80 ft.; Attack 2 talons (1d4), bite (1d6); Ability Scores Str 12, Dex 19, Con 9, Int 2, Wis 13, Cha 11; Special Qualities low-light vision.
+7th-Level Advancement
+Size Large; AC +3 natural armor; Attack 2 talons (1d6 plus grab), bite (1d8); Ability Scores Str +8, Dex –2, Con +4.
+
+Saber-Toothed Cat
+Source PZO1140
+Somewhat smaller than the more ferocious saber-toothed tiger, the saber-toothed cat is nonetheless an impressive predatory creature.
+Starting Statistics
+Size Medium; Speed 40 ft.; AC +1 natural armor; Attack 2 claws (1d4 plus grab); Ability Scores Str 15, Dex 15, Con 13, Int 2, Wis 13, Cha 8; Special Attacks saber-toothed bite (1d10 bite attack, only on a grapple check to deal damage); Special Qualities low-light vision, scent.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack 2 claws (1d6 plus grab); Ability Scores Str +8, Dex –2, Con +4; Special Attacks pounce, saber-toothed bite (2d8 bite attack, only on a grapple check to deal damage).
+
+Salamander, Cave
+Source: PRG:MC
+Note This companion was originally intended for kobolds. Consult your GM before choosing this animal. A kobold cavalier can select this as a mount instead of a dog or pony.
+Starting Statistics
+Size Medium; Speed 40 ft.; AC +2 natural armor; Attack bite (1d6); Ability Scores Str 13, Dex 12, Con 13, Int 1, Wis 12, Cha 4; Special Qualities darkvision 60 ft.
+4th-Level Advancement
+Ability Scores Str +2, Con +2; Special Qualities combat training (see Handle Animal).
+
+Salamander, Giant
+Source PZO1140
+This oversized amphibian has a mouth full of tiny but rather sharp teeth.
+Starting Statistics
+Size Medium; Speed 20 ft., swim 30 ft.; AC +3 natural armor; Attack bite (1d4); Ability Scores Str 13, Dex 14, Con 15, Int 1, Wis 12, Cha 4; Special Qualities amphibious, tremorsense 30 ft. (underwater only), scent.
+4th-Level Advancement
+AC +2 natural armor; Ability Scores Str +2, Dex –2, Con +4; Racial Skill Modifiers +4 Stealth.
+
+Seahorse
+Source: PRG:B4
+Starting Statistics
+Size Large; Speed swim 30 ft.; AC +4 natural armor; Attack bite (1d4); Ability Scores Str 16, Dex 13, Con 15, Int 1, Wis 12, Cha 6; SQ low-light vision.
+4th-Level Advancement
+Attack bite (1d6); Ability Scores Str +2, Con +2; SQ anchor.
+
+Shark
+Starting Statistics
+Size Small; Speed swim 60 ft.; AC +4 natural armor; Attack bite (1d4); Ability Scores Str 13, Dex 15, Con 15, Int 1, Wis 12, Cha 2; Special Qualities low-light vision, scent.
+4th-Level Advancement
+Size Medium; Attack bite (1d6); Ability Scores Str +4, Dex –2, Con +2; Special Qualities blindsense 30 ft.
+
+Shark, Hammerhead
+Source PZO1140
+This unusual shark is named for its blocky, rectangular head. The creature’s eyes are on each side of its head.
+Starting Statistics
+Size Medium; Speed swim 60 ft.; AC +3 natural armor; Attack bite (1d6); Ability Scores Str 13, Dex 14, Con 12, Int 1, Wis 15, Cha 6; Special Qualities aquatic, low-light vision, scent.
+7th-Level Advancement
+Size Large; AC +3 natural armor; Attack bite (1d8); Ability Scores Str +2, Dex –2, Con +4; Special Qualities blindsense 30 ft.
+
+Shrike, Impaler
+Source PAP97
+Starting Statistics
+Size Small; Speed 10 ft., fly 60 ft. (average); Attack bite (1d4); Ability Scores Str 12, Dex 13, Con 13, Int 2, Wis 14, Cha 7; Special Qualities low-light vision.
+7th-Level Advancement
+Size Medium; AC +2 natural armor; Attack bite (1d6); Ability Scores Str +2, Con +2; Special Attacks impale.
+
+Skittergoat
+Source: PAP91
+Starting Statistics
+Size Small; Speed 30 ft.; AC +1 natural; Attack gore (1d4); Ability Scores Str 13, Dex 14, Con 11, Int 2, Wis 10, Cha 5; Special Qualities low-light vision.
+4th-Level Advancement
+Size Medium; Attack gore (1d6); Ability Scores Str +4, Dex –2, Con +2; Special Qualities egg cracker.
+
+Skunk, Giant
+Source PZO1140
+Its unmistakable black-and-white-striped coloration gives a clear warning sign to any who’ve experienced this foul-smelling creature’s ire.
+Starting Statistics
+Size Medium; Speed 30 ft.; AC +1 natural armor; Attack bite (1d6), 2 claws (1d4); Ability Scores Str 9, Dex 14, Con 13, Int 2, Wis 12, Cha 9; Special Attacks spray (ranged touch attack, 30-ft. range, musk, usable 1/day); Special Qualities low-light vision, musk (Fort save or sickened for 1d6 rounds, Con-based DC), scent.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack bite (1d8), 2 claws (1d6); Ability Scores Str +8, Dex –2, Con +4; Special Attacks spray (usable 2/day); Special Qualities musk (Fort save or nauseated for 1d3 rounds).
+
+Snake, Constrictor
+Starting Statistics
+Size Medium; Speed 20 ft., climb 20 ft., swim 20 ft.; AC +2 natural armor; Attack bite (1d3 plus grab); Ability Scores Str 15, Dex 17, Con 13, Int 1, Wis 12, Cha 2; Special Qualities low-light vision, scent.
+4th-Level Advancement
+Size Large; AC +1 natural armor; Attack bite (1d4); Ability Scores Str +8, Dex –2, Con +4; Special Attacks constrict 1d4.
+
+Snake, Reef
+Source PZO1140
+Highly venomous and an excellent swimmer, the brightly colored reef snake is at home in tidal waters but can slither about on land if needed.
+Starting Statistics
+Size Medium; Speed 10 ft., swim 40 ft.; AC +2 natural armor; Attack bite (1d4 plus poison); Ability Scores Str 10, Dex 15, Con 12, Int 1, Wis 13, Cha 2; Special Attacks poison (frequency 1 round [6]; effect 1 Str damage; cure 1 save; Con-based DC); Special Qualities low-light vision, hold breath, scent.
+7th-Level Advancement
+Ability Scores Str +2, Dex +2. Special Attacks poison (frequency 1 round [6]; effect 1d2 Str damage; cure 2 saves; Con-based DC]).
+
+Snake, Spitting Cobra
+Source PZO1140
+This brightly colored snake can spit its venom, giving it a dangerous ranged attack.
+Starting Statistics
+Size Small; Speed 20 ft., climb 20 ft.; AC +2 natural armor; Attack bite (1d3); Ability Scores Str 8, Dex 15, Con 11, Int 1, Wis 12, Cha 2; Special Attacks poison (frequency 1 round [6]; effect blurred vision [20% miss chance] 1 round; cure 1 save; Con-based DC), spit (ranged touch attack, 10-foot range, poison, usable every 2d4 rounds); Special Qualities low-light vision, scent.
+7th-Level Advancement
+Ability Scores Dex +2, Con +2; Special Attacks poison (frequency 1 round [6]; effect blindness 1 round; cure 1 save; Con-based DC).
+
+Snake, Viper
+Starting Statistics
+Size Small; Speed 20 ft., climb 20 ft., swim 20 ft.; AC +2 natural armor; Attack bite (1d3 plus poison [Frequency 1 round (6), effect 1 Con damage, cure 1 save, Con-based DC]); Ability Scores Str 8, Dex 17, Con 11, Int 1, Wis 12, Cha 2; Special Qualities low-light vision, scent.
+4th-Level Advancement
+Size Medium; Attack bite (1d4 plus poison); Ability Scores Str +4, Dex –2, Con +2.
+
+Snapping Turtle
+Starting Statistics
+Size Medium; Speed 20 ft., swim 20 ft.; AC +10 natural armor; Attack bite (1d6); Ability Scores Str 8, Dex 10, Con 9, Int 1, Wis 13, Cha 6; Special Qualities low-light vision, hold breath, scent.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack bite (1d8 plus grab), Ability Scores Str +8, Dex –2, Con +4
+
+Spinosaurus
+Starting Statistics
+Size Medium; Speed 30 ft., swim 20 ft.; AC +3 natural armor; Attack bite (1d6), 2 claws (1d4); Ability Scores Str 18, Dex 15, Con 15, Int 2, Wis 13, Cha 3.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack bite (1d8), 2 claws (1d6); Ability Scores Str +8, Dex –2, Con +4.
+
+Squid
+Starting Statistics
+Size Medium; AC +1 natural armor; Speed swim 60 ft., jet 240 ft.; Attack tentacles (1d4 plus grab), bite (1d3); Ability Scores Str 14, Dex 15, Con 11, Int 2, Wis 12, Cha 2; Special Qualities low-light vision, ink cloud.
+4th-Level Advancement
+Ability Scores Str +2, Con +2.
+
+Squid, Giant
+Source PZO1140
+Although this creature isn’t nearly the size of a true giant squid, it remains large enough to do serious damage to foes with its many tentacles.
+Starting Statistics
+Size Medium; Speed swim 40 ft., jet 90 ft.; AC +1 natural armor; Attack bite (1d6), tentacles (1d4 plus grab); Ability Scores Str 12, Dex 15, Con 13, Int 2, Wis 12, Cha 3; Special Qualities aquatic, low-light vision.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack bite (1d8), tentacles (1d6 plus grab); Ability Scores Str +8, Dex –2, Con +4; Special Attacks constrict (1d6); Special Qualities ink cloud (20-ft. radius)
+
+Stag
+Source: PRG:B4
+Starting Statistics
+Size Small; Attack gore (1d4); Ability Scores Str 10, Dex 19, Con 14, Int 2, Wis 15, Cha 8; SQ low-light vision, scent.
+4th-Level Advancement
+Size Medium; Attack gore (1d6), 2 hooves (1d4); Ability Scores Str +2, Dex –2, Con +2.
+
+Stegosaurus
+Starting Statistics
+Size Medium; AC +6 natural armor; Speed 30 ft.; Attack tail (2d6); Ability Scores Str 10, Dex 18, Con 10, Int 2, Wis 12, Cha 10; Special Qualities low-light vision, scent.
+7th-Level Advancement
+Size Large; AC +3 natural armor; Attack tail (2d8 plus trip); Ability Scores Str +8, Dex –2, Con +4.
+
+Stingray
+Starting Statistics
+Size Small; Speed swim 40 ft.; Attack sting (1d3 plus poison [frequency 1 round (4), effect 1d2 Dex and 1 Con damage, cure 1 save, Con-based DC]); Ability Scores Str 6, Dex 15, Con 13, Int 1, Wis 13, Cha 2; Special Qualities low-light vision.
+4th-Level Advancement
+Size Medium; AC +1 natural armor; Attack sting (1d4); Ability Scores Str +4, Dex -2, Con +2; Special Qualities blindsense 30 ft.
+
+Styracosaurus
+Source: PRG:B4
+Starting Statistics
+Size Medium; Speed 30 ft.; AC +6 natural armor; Attack gore (1d8); Ability Scores Str 10, Dex 13, Con 11, Int 2, Wis 12, Cha 7; SQ low-light vision, scent.
+7th-Level Advancement
+Size Large, AC +3 natural armor; Attack gore (2d6); Ability Scores Str +8, Dex –2, Con +4; SQ ferocity, reflexive strike.
+
+Therizinosaurus
+Source B5
+Starting Statistics
+Size Medium; Speed 30 ft.; AC +4 natural armor; Attack 2 claws 1d6; Ability Scores Str 12, Dex 18, Con 10, Int 2, Wis 15, Cha 11; Special Qualities low-light vision, scent, sprint.
+7th-Level Advancement
+Size Large; AC +3 natural armor; Attack 2 claws 1d8; Ability Scores Str +8, Dex -2, Con +4; Special Qualities bleed (1d6), sweeping strike.
+
+Thylacine
+Starting Statistics
+Size Small; Speed 30 ft.; Attack bite (1d4); Ability Scores Str 12, Dex 15, Con 16, Int 2, Wis 13, Cha 7; Special Qualities low-light vision, powerful jaws.
+4th-Level Advancement
+Size Medium; AC +2 natural armor; Attack bite (1d6); Ability Scores Str +4, Dex -2, Con +4.
+
+Titanoboa
+Source PRG:B6
+Starting Statistics
+Size Medium; Speed 30 ft., climb 30 ft., swim 30 ft.; AC +4 natural armor; Attack bite (1d4); Ability Scores Str 15, Dex 15, Con 11, Int 2, Wis 17, Cha 8; Special Qualities low-light vision, scent.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack bite (1d6); Ability Scores Str +8, Dex –2, Con +4; Special Qualities constrict (1d6), grab.
+
+Toad, Giant
+Starting Statistics
+Size Medium; Speed 30 ft.,swim 30 ft.; AC +1 natural armor; Attack bite (1d6); Ability Scores Str 15, Dex 13, Con 16, Int 1, Wis 9, Cha 6; Special Qualities low-light vision, scent.
+4th-Level Advancement
+Ability Scores Str +2, Dex +2; Special Qualities poison skin (poison—contact, frequency 1 round (4), effect 1d2 Wis damage, cure 1 save, Con-based DC]), swallow whole.
+
+Tortoise
+Source: PRG:B4
+Starting Statistics
+Size Medium; Speed 10 ft.; AC +6 natural; Attack bite (1d4); Ability Scores Str 14, Dex 8, Con 16, Int 2, Wis 13, Cha 9; SQ low-light vision
+7th-Level Advancement
+Size Large; Speed 10 ft.; AC +8 natural; Attack bite (1d6); Ability Scores Str +4, Dex –2, Con +2; Bonus Feat Great Fortitude
+
+Triceratops
+Starting Statistics
+Size Medium; Speed 30 ft.; AC +6 natural armor; Attack gore (1d8); Ability Scores Str 10, Dex 13, Con 11, Int 2, Wis 12, Cha 7.
+7th-Level Advancement
+Size Large, AC +3 natural armor; Attack gore (2d6); Ability Scores Str +8, Dex –2, Con +4; Special Qualities powerful charge (gore, 2d8).
+
+Troodon
+Source B5
+Starting Statistics
+Size Small; Speed 40 ft.; Attack bite (1d4), 2 claws (1d3); Ability Scores Str 7, Dex 17, Con 10, Int 2, Wis 14, Cha 13; Special Qualities easily trained, low-light vision, scent.
+4th-Level Advancement
+Size Medium; AC +1 natural armor; Attack bite (1d6), 2 claws (1d4); Ability Scores Str +4, Dex +4, Con +4.
+
+Trumpeter Swan
+Source: PRG:B4
+Starting Statistics
+Size Small; Speed 10 ft., f ly 80 ft. (average); Attack bite (1d4), 2 wings (1d3); Ability Scores Str 10, Dex 15, Con 12, Int 2, Wis 12, Cha 5; SQ low-light vision.
+4th-Level Advancement
+Ability Scores Str +2, Con +2.
+
+Tylosaurus
+Starting Statistics
+Size Medium; Speed 20 ft., swim 50 ft.; AC +3 natural armor; Attack bite (1d6); Ability Scores Str 10, Dex 17, Con 10, Int 2, Wis 13, Cha 9; Special Qualities low-light vision, scent.
+7th-level Advancement
+Size Large; AC +2 natural armor; Attack bite (1d8 plus grab); Ability Scores Str +8, Dex –2, Con +4.
+
+Tyrannosaurus
+Starting Statistics
+Size Medium, Speed 30 ft.; AC +4 natural armor; Attack bite (1d8); Ability Scores Str 14, Dex 16, Con 10, Int 2, Wis 15, Cha 10; Special Qualities low-light vision, scent.
+7th-Level Advancement
+Size Large; AC +3 natural armor; Attack bite (2d6 plus grab); Ability Scores Str +8, Dex –2, Con +4; Special Qualities powerful bite.
+
+Uintatherium
+Source B5
+Starting Statistics
+Size Medium; AC +4 natural; Speed 30 ft.; Attack bite (1d8); Ability Scores Str 14, Dex 12, Con 17, Int 1, Wis 13, Cha 3; Special Qualities scent.
+7th-Level Advancement
+Size Large; AC +3 natural armor; Attack bite (2d6); Ability Scores Str +8, Dex -2, Con +4.
+
+Velociraptor
+Source: PRG:B4
+Starting Statistics
+Size Small; Speed 60 ft.; AC +1 natural armor; Attack 2 talons (1d6), bite (1d4); Ability Scores Str 11, Dex 17, Con 17, Int 2, Wis 12, Cha 14; Special Qualities low-light vision, scent.
+7th-Level Advancement
+Size Medium; AC +2 natural armor; Attack 2 talons (1d8), bite (1d6), 2 claws (1d4) Ability Scores Str +4, Dex –2, Con +2; Special Attacks pounce.
+
+Vulture, Giant
+Starting Statistics
+Size Medium; AC +2 natural armor; Speed 10 ft., f ly 50 ft. (average); Attack bite (1d8); Ability Scores Str 12, Dex 15, Con 14, Int 2, Wis 15, Cha 7; Special Qualities low-light vision, +4 on saves vs. disease.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack bite (2d6); Ability Scores Str +8, Dex –2, Con +4.
+
+Vulture, Whisper
+Source: Orcs
+Starting Statistics
+Size Small; Speed 10 ft., fly 60 ft. (average); AC +1 natural armor; Attack bite (1d6); Ability Scores Str 12, Dex 15, Con 12, Int 2, Wis 13, Cha 7; SQ lowlight vision.
+4th-Level Advancement
+Ability Scores Str +2, Con +2.
+
+Walrus
+Source PCS:AA
+Starting Statistics
+Size Medium; Speed 20 ft., swim 40 ft.; AC +3 natural armor; Attack gore (1d6); Ability Scores Str 14, Dex 13, Con 14, Int 2, Wis 13, Cha 9; Special Qualities hold breath, low-light vision.
+7th-Level Advancement
+Size Large; AC +4 natural armor; Attack gore (1d8); Ability Scores Str +8, Dex –2, Con +4; Special Qualities fatal gore.
+
+Warcat
+Source: Orcs
+Starting Statistics
+Size Medium; Speed 40 ft.; AC +4 natural armor; Attack bite (1d6), 2 claws (1d4); Ability Scores Str 15, Dex 15, Con 14, Int 2, Wis 11, Cha 5; Special Attacks rake (1d4); SQ low-light vision, scent.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack bite (1d8), 2 claws (1d6); Ability Scores Str +8, Dex –2, Con +4; Special Attacks grab, pounce, rake (1d6).
+
+Weasel, Giant
+Source: PRG:B4
+Starting Statistics
+Size Small; Speed 30 ft., climb 10 ft.; AC +1 natural armor; Attack bite (1d4); Ability Scores Str 10, Dex 19, Con 13, Int 2, Wis 12, Cha 10; Special Attacks blood drain (1 Con), grab; SQ low-light vision, scent.
+4th-Level Advancement
+Size Medium; Attack bite (1d6); Ability Scores Str +4, Dex –2, Con +2.
+
+Wolf
+Starting Statistics
+Size Medium; Speed 50 ft.; AC +2 natural armor; Attack bite (1d6 plus trip); Ability Scores Str 13, Dex 15, Con 15, Int 2, Wis 12, Cha 6; Special Qualities low-light vision, scent.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack bite (1d8 plus trip); Ability Scores Str +8, Dex –2, Con +4.
+
+Wolfdog
+Source PZO1140
+This creature is a dependable hybrid of wolf and dog.
+Starting Statistics
+Size Medium; Speed 40 ft.; AC +2 natural armor; Attack bite (1d6); Ability Scores Str 15, Dex 15, Con 13, Int 2, Wis 12, Cha 6; Special Qualities low-light vision, scent.
+4th-Level Advancement
+Ability Scores Str +2, Con +2; Attack bite (1d6 plus 1d4 bleed).
+
+Whale, Blue
+Source B5
+Starting Statistics
+Size Medium; Speed swim 80 ft.; AC +1 natural armor; Attack tail slap (1d8); Ability Scores Str 11, Dex 19, Con 10, Int 2, Wis 14, Cha 6; Special Qualities low-light vision, hold breath.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack tail slap (2d6); Ability Scores Str +8, Dex -2, Con +4.
+
+Whale, Narwhal
+Source B5
+Starting Statistics
+Size Medium; Speed swim 80 ft.; AC +1 natural armor; Attack bite (1d6); Ability Scores Str 11, Dex 19, Con 10, Int 2, Wis 14, Cha 6; Special Qualities low-light vision, hold breath.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack bite (1d8); Ability Scores Str +8, Dex -2, Con +4; Special Qualities blindsight 120 ft., tusk.
+
+Whale, Orca
+Starting Statistics
+Size Medium; Speed swim 80 ft.; AC +1 natural armor; Attack bite (1d6); Ability Scores Str 11, Dex 19, Con 10, Int 2, Wis 14, Cha 6; Special Qualities low-light vision, hold breath.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack bite (1d8); Ability Scores Str +8, Dex –2, Con +4; Special Qualities blindsight 120 ft.
+
+Wolliped
+Starting Statistics
+Size Medium; Speed 50 ft.; AC +1 natural armor, Attack gore (1d6); Ability Scores Str 14, Dex 16, Con 12, Int 2, Wis 11, Cha 4; Special Qualities low-light vision, scent.
+7th-Level Advancement
+Size Large; AC +3 natural armor; Attack gore (1d8); Ability Scores Str +4, Dex –2, Con +4; Special Abilities spit, trample.
+
+Yak
+Source PZO1140
+Stout and stubborn, the yak is sure footed and dependable in rough terrain.
+Starting Statistics
+Size Large; Speed 30 ft.; AC +4 natural armor; Attack gore (1d8); Ability Scores Str 14, Dex 10, Con 12, Int 2, Wis 10, Cha 5; Special Qualities low-light vision, scent.
+4th-Level Advancement
+AC +2 natural armor; Ability Scores Str +4, Con +4; Special Qualities pack animal (speed is never modified by encumbrance).
+
+Zebra
+Source PZO1140
+The iconic black and white stripes of the zebra make it instantly recognizable.
+Starting Statistics
+Size Large; Speed 50 ft.; AC +2 natural armor; Attack bite (1d4), 2 hooves (1d4); Ability Scores Str 14, Dex 15, Con 13, Int 2, Wis 14, Cha 6; Special Qualities low-light vision, scent.
+4th-Level Advancement
+Ability Scores Dex +2, Con +2.
+The hooves are primary attacks.

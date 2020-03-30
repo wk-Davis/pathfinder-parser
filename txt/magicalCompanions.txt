@@ -1,0 +1,136 @@
+Basilisk
+Source PPC:HoG
+Starting Statistics
+Size: Medium; Speed 20 ft.; AC +4 natural armor; Attack bite (1d4); Ability Scores Str 16, Dex 10, Con 15, Int 2, Wis 13, Cha 11; Special Qualities darkvision 60 ft., low-light vision, gaze (one target within 30 ft., paralysis 1d4 rounds, Fort negates, once per day).
+9th-Level Advancement
+AC +2 natural armor; Ability Scores Dex +4, Con +4; Attack bite (1d6); Special Qualities gaze (three times per day).
+Mastery (11th level)
+Size The basilisk’s gaze attack functions as flesh to stone (caster level equals basilisk’s HD) instead of inflicting paralysis.
+
+Behir
+Source PPC:HoG
+Prerequisite(s): Diplomacy or Intimidate 7 ranks, Knowledge (arcana) 7 ranks.
+Starting Statistics
+Size: Medium; Speed 40 ft., climb 20 ft.; AC +6 natural armor; Attack bite (1d6); Ability Scores Str 16, Dex 12, Con 16, Int 7, Wis 14, Cha 12; Special Attacks breath weapon (20-ft. line, 4d6 electricity damage, Reflex half, once per day), grab; Special Qualities electricity resistance 10.
+Mastery (11th level)
+Size Large; AC +2 natural armor; Attack bite (1d8); Ability Scores Str +4, Dex –2, Con +2; Special Attacks breath weapon (three times per day), constrict 1d8; Special Qualities immune to electricity.
+
+Bulette
+Source PPC:HoG
+Starting Statistics
+Size: Medium; Speed 40 ft., burrow 20 ft.; AC +4 natural armor; Attack bite (1d6), 2 claws (1d4); Ability Scores Str 16, Dex 14, Con 16, Int 2, Wis 13, Cha 6.
+Mastery (11th level)
+Size Large; AC +4 natural armor; Attack bite (1d8), claws (1d6); Ability Scores Str +4, Dex –2, Con +2; Special Attacks leap (When charging, it can attempt a DC 20 Acrobatics check to jump into the air and land next to its enemies. If successful, it can make four claw attacks against foes in reach but cannot make a bite attack).
+
+Death Worm
+Source PPC:HoG
+Prerequisite(s): Survival 7 ranks.
+Starting Statistics
+Size: Medium; Speed 20 ft., burrow 20 ft.; AC +6 natural armor; Attack bite (1d6 plus poison); Ability Scores Str 16, Dex 14, Con 16, Int 3, Wis 10, Cha 5; Special Attacks poison (frequency 1 round [6]; effect 1d2 Con damage; cure 2 saves, Con-based DC); Special Qualities acid resistance 10, darkvision 60 ft., low-light vision, tremorsense 60 ft., electricity resistance 10.
+Mastery (11th level)
+Size Large; AC +4 natural armor; Attack bite (1d8 plus poison); Attack Ability Scores Str +4, Dex –2, Con +2; Special Attacks breath weapon (30-ft. line, 8d6 acid damage, Reflex half, once per day); Special Qualities immune to acid, immune to electricity.
+
+Sun Falcon
+Source PPC:HoG
+Prerequisite(s): Diplomacy 7 ranks, Knowledge (arcana) or Knowledge (religion) 7 ranks.
+Starting Statistics
+Size: Tiny; Speed 10 ft., fly 60 ft. (good); AC +2 natural armor; Attack talons (1d4 plus burn); Ability Scores Str 10, Dex 17, Con 12, Int 5, Wis 14, Cha 15; Special Attacks breath weapon (30-ft. line, 3d6 fire, Reflex half, once per day), burn (1d4).
+9th-Level Advancement
+Size Small; AC 19 +4 natural armor; Attack talons (1d6 plus burn); Ability Scores Str +2, Con +4, Cha +2; Special Attacks breath weapon (three times per day), burn (1d6).
+Mastery (11th level)
+Size Three times per day, the sun falcon can blast an intense wave of heat and light in a 20-foot cone as a standard action. Creatures within this area must succeed at a Reflex save or take 1d6 points of fire damage and be blinded for 1d4+1 rounds. Creatures that succeed at this save take no fire damage and are instead dazzled for 1 round. The save DC is Charisma-based.
+
+Plant Companions
+Prerequisite(s) To gain a plant companion the druid must be an elf and possess the treesinger druid archetype.
+Each plant companion has different starting sizes, speed, attacks, ability scores, and special qualities. All plant attacks are made using the creature’s full base attack bonus unless otherwise noted. Plant attacks add the plant’s Strength modifier on the damage roll, unless it has only one attack, in which case it adds 1-1/2 times its Strength modifier. Some plant companions have special abilities, such as scent. Plant companions cannot gain armor or weapon proficiency feats, even as they advance in hit dice, and cannot use manufactured weapons at all unless their description says otherwise.
+As you gain levels, your plant companion grows in power as well. It gains the same bonuses that are gained by animal companions, noted on Table: Animal Companion Base Statistics. Each plant companion gains an additional bonus, usually at 4th or 7th level, as listed with each plant choice. Instead of taking the listed benefit at 4th level, you can instead choose to increase the companion’s Strength and Constitution by 2.
+
+Cactus, Hunting
+Source PZO1140
+Able to crawl swiftly on five rootlike legs, the hunting cactus has long arms it can slam foes with—arms covered with hundreds of thin, sharp needles.
+Starting Statistics
+Size Medium; Speed 30 ft.; AC +3 natural armor; Attack 2 slams (1d6); Ability Scores Str 14, Dex 13, Con 17, Int 2, Wis 13, Cha 6; Special Qualities needles (a creature grappling a hunting cactus or attacking it with a natural attack or unarmed strike takes 1d4 points of piercing damage); CMD +6 vs. trip.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack 2 slams (1d8); Ability Scores Str +8, Dex –2, Con +2; Special Qualities low-light vision.
+These slam attacks deal both bludgeoning and piercing damage.
+
+Cactus, Sniper Cactus
+Source PZO1140
+This single-stalked cactus sports dozens of long, thin needles. Capable of crawling on three stalklike roots, the sniper cactus can fire its thorns with deadly accuracy.
+Starting Statistics
+Size Small; Speed 20 ft.; AC +2 natural armor; Attack gore (1d4) or thorn* (ranged attack, 60-foot range, 1d8 piercing damage. *This attack gains no bonus from this creature’s Strength score on damage rolls.); Ability Scores Str 10, Dex 13, Con 14, Int 1, Wis 13, Cha 6; Special Qualities low-light vision; CMD +2 vs. trip.
+4th-Level Advancement
+Size Medium; AC +2 natural armor; Attack gore (1d6) or 2 thorns (ranged attack, 60-foot range, 2d6 piecing damage); Ability Scores Dex +2, Con +2.
+
+Carnivorous Flower
+Starting Statistics
+Size Small; Speed 30 ft., climb 10 ft.; AC +2 natural armor; Attack bite (1d6); Ability Scores Str 10, Dex 17, Con 15, Int 2, Wis 12, Cha 10; Special Qualities low-light vision, scent.
+4th-Level Advancement
+Size Medium; Attack bite (2d6); Ability Scores Str +4, Dex –2, Con +2; Special Attacks rage (1/day, as the barbarian class feature for 6 rounds).
+
+Corpse-Eater Fungus
+Source PZO1140
+This pale mass of fungal matter looks something like a spider with a thorny, acidic mouth in place of a body.
+Starting Statistics
+Size Small; Speed 30 ft.; AC +2 natural armor; Attack bite (1d6 plus 1d2 acid); Ability Scores Str 14, Dex 13, Con 12, Int 1, Wis 11, Cha 4; Special Attacks spit acid (ranged touch attack, 30-foot range, 1d6 acid damage); Special Qualities darkvision 60 ft.; CMD +12 vs. trip.
+4th-Level Advancement
+Size Medium; AC +2 natural armor; Attack bite (1d8 plus 1d4 acid); Ability Scores Str +4, Dex –2, Con +2; Special Attacks spit acid (ranged touch attack, 30-foot range, 1d8 acid damage); Special Qualities darkvision 60 ft.
+
+Crawling Vine
+Starting Statistics
+Size Medium; Speed 20 ft., climb 20 ft.; AC +2 natural armor; Attack slam (1d4); Ability Scores Str 13, Dex 17, Con 13, Int 1, Wis 12, Cha 2; Special Attacks grab; Special Qualities low-light vision, scent.
+4th-Level Advancement
+Size Large; AC +1 natural armor; Attack slam (1d6); Ability Scores Str +8, Dex –2, Con +4; Special Attacks constrict 1d6.
+
+Creeping Puffball
+Source PZO1140
+This surprisingly mobile, multicolored ball of fungus crawls around on a nest of dozens of little filament-like “legs.” Its poisonous spores cause those affected to endure bright, dazzling spots of color.
+Starting Statistics
+Size Small; Speed 30 ft.; AC +1 natural armor; Attack slam (1d4 plus poison); Ability Scores Str 12, Dex 15, Con 14, Int 1, Wis 12, Cha 9; Special Attacks poison (frequency 1 round [4]; effect 1d2 Wis damage and dazzled; cure 1 save; Con-based DC); Special Qualities darkvision 60 ft., defensive puff (1/minute as an immediate action when hit, the fungus can expose one adjacent creature to its poison); CMD can’t be tripped.
+4th-Level Advancement
+Size Medium; AC +1 natural armor; Attack slam (1d6 plus poison); Ability Scores Str +4, Dex –2, Con +2.
+
+Gulper Plant
+Source PZO1140
+This bulbous green plant can climb or crawl via a network of vines. Its central reservoir can gulp down foes to digest them in an internal well of acid, holding them tight while they struggle.
+Starting Statistics
+Size Medium; Speed 20 ft., climb 10 ft.; AC +1 natural armor; Attack 2 vines (1d4 plus grab); Ability Scores Str 12, Dex 11, Con 13, Int 1, Wis 10, Cha 3; Special Attacks swallow whole (1d6 acid); Special Qualities freeze, low-light vision; CMD can’t be tripped.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack 2 vines (1d6 plus grab); Ability Scores Str +6, Dex –2, Con +2; Special Attacks swallow whole (1d8 acid).
+This attack is a primary natural attack that deals bludgeoning damage.
+
+Puffball (Floating Fungus)
+Starting Statistics
+Size Small; Speed 20 ft., fly 60 ft. (average); AC +1 natural armor; Attack thorn (1d4 plus poison); Ability Scores Str 10, Dex 15, Con 12, Int 2, Wis 14, Cha 6; Special Attacks poison (Frequency 1 round [6], Effect 1 Con damage, Cure 1 save, Con-based DC); Special Qualities low-light vision.
+4th-Level Advancement
+Ability Scores Str +2, Con +2.
+
+Rash Creeper
+Source PZO1140
+This mass of creeping vines and leaves slithers almost like a snake. Contact with this predatory plant causes a sickening and sometimes debilitating rash.
+Starting Statistics
+Size Small; Speed 20 ft., climb 20 ft.; AC +1 natural armor; Attack slam (1d4 plus poison); Ability Scores Str 10, Dex 15, Con 13, Int 1, Wis 11, Cha 2; Special Attacks poison (frequency 1 round [4]; effect 1 Dex damage and sickened for 1 round; cure 1 save; Con-based DC); Special Qualities low-light vision; CMD can’t be tripped.
+4th-Level Advancement
+Size Medium; AC +2 natural armor; Attack slam (1d6 plus poison); Ability Scores Str +4, Dex –2, Con +2; Special Attacks poison (frequency 1 round [4]; effect 1d2 Dex damage and sickened for 1 round; cure 2 saves; Con-based DC).
+
+Sapling Treant
+Starting Statistics
+Size Medium; Speed 30 ft., climb 30 ft.; AC +1 natural armor; Attack 2 slams (1d6); Ability Scores Str 15, Dex 10, Con 12, Int 2, Wis 12, Cha 7; Special Qualities double damage against objects, low-light vision.
+4th-Level Advancement
+Size Large; AC +2 natural armor; Attack 2 slams (1d8); Ability Scores Str +8, Dex –2, Con +4.
+
+Slithering Sundew
+Source PZO1140
+Looking something like a two-headed serpent, this slithering plant strikes with two sticky, constricting slams.
+Starting Statistics
+Size Medium; Speed 20 ft.; AC +1 natural armor; Attack 2 slams (1d4 plus 1d2 acid plus grab); Ability Scores Str 14, Dex 17, Con 13, Int 1, Wis 12, Cha 6; Special Attacks constrict (1d8 acid); Special Qualities low-light vision; CMD can’t be tripped.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack 2 slams (1d6 plus 1d3 acid plus grab); Ability Scores Str +6, Dex –2, Con +4; Special Attacks constrict (2d6 acid).
+
+Snapping Flytrap
+Source PZO1140
+This mobile flytrap features two spiky jaws and scuttles about on a tangle of roots.
+Starting Statistics
+Size Medium; Speed 20 ft.; AC +2 natural armor; Attack 2 bites (1d4 plus grab); Ability Scores Str 12, Dex 15, Con 14, Int 1, Wis 12, Cha 5; Special Qualities low-light vision; CMD can’t be tripped.
+7th-Level Advancement
+Size Large; AC +2 natural armor; Attack 3 bites (1d6 plus grab); Ability Scores Str +8, Dex –2, Con +4.

@@ -1,0 +1,6507 @@
+{
+  "allosaurus": {
+    "size": "medium",
+    "speed": { "base": 40 },
+    "str": 14,
+    "dex": 16,
+    "con": 10,
+    "int": 2,
+    "wis": 15,
+    "cha": 10,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d6",
+        "damageType": "b, p, s"
+      },
+      {
+        "name": "2 claws",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, s",
+        "secondary": true
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+4", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d8",
+          "damageType": "b, p, s"
+        },
+        {
+          "name": "2 claws",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "specialQualities": ["grab", "pounce"],
+      "str": "+8",
+      "dex": "–2",
+      "con": "+4",
+      "level": 7
+    }
+  },
+  "amargasaurus": {
+    "source": " PRG:B6",
+    "size": "medium",
+    "speed": { "base": 30 },
+    "str": 11,
+    "dex": 18,
+    "con": 9,
+    "int": 2,
+    "wis": 13,
+    "cha": 10,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      { "name": "slam", "type": "natural", "damage": "1d6", "damageType": "b" },
+      {
+        "name": "tail slap",
+        "type": "natural",
+        "damage": "1d6",
+        "damageType": "b"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+3", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "slam",
+          "type": "natural",
+          "damage": "1d8",
+          "damageType": "b"
+        },
+        {
+          "name": "tail slap",
+          "type": "natural",
+          "damage": "1d8",
+          "damageType": "b"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "specialQualities": ["trample"],
+      "str": "+8",
+      "dex": "–2",
+      "con": "+4",
+      "level": 4
+    }
+  },
+  "anglerfish": {
+    "source": " PZO1140",
+    "description": "The anglerfish is a fish that uses a bioluminescent lure at the tip of a stalk protruding from its head to attract prey.",
+    "size": "small",
+    "speed": { "swim": 40 },
+    "str": 13,
+    "dex": 15,
+    "con": 12,
+    "int": 1,
+    "wis": 12,
+    "cha": 2,
+    "specialQualities": [
+      "aquatic",
+      "grab (Medium)",
+      "low-light vision",
+      "lure (sheds light as per a candle)",
+      "scent"
+    ],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d8",
+        "damageType": "b, p, s",
+        "plus": "grab"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "medium",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "2d6",
+          "damageType": "b, p, s",
+          "plus": "grab"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "specialQualities": ["grab (Large)", "swallow whole (Medium)"],
+      "str": "+2",
+      "dex": "–2",
+      "con": "+4",
+      "level": 4
+    }
+  },
+  "ankylosaurus": {
+    "size": "medium",
+    "speed": { "base": 30 },
+    "str": 10,
+    "dex": 14,
+    "con": 9,
+    "int": 2,
+    "wis": 12,
+    "cha": 8,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      { "name": "tail", "type": "natural", "damage": "1d6", "damageType": "b" }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+9", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "tail",
+          "type": "natural",
+          "damage": "2d6",
+          "damageType": "b"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "specialQualities": ["stun"],
+      "str": "+8",
+      "dex": "–2",
+      "con": "+4",
+      "level": 7
+    }
+  },
+  "antelope": {
+    "size": "small",
+    "speed": { "base": 60 },
+    "str": 10,
+    "dex": 17,
+    "con": 14,
+    "int": 2,
+    "wis": 13,
+    "cha": 5,
+    "specialQualities": ["low-light vision"],
+    "attacks": [
+      { "name": "gore", "type": "natural", "damage": "1d4", "damageType": "p" }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": { "attacks": [], "str": "+2", "dex": "+2", "level": 4 }
+  },
+  "ape": {
+    "size": "medium",
+    "speed": { "base": 30, "climb": 30 },
+    "str": 13,
+    "dex": 17,
+    "con": 10,
+    "int": 2,
+    "wis": 12,
+    "cha": 7,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, p, s"
+      },
+      {
+        "name": "2 claws",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b, p, s"
+        },
+        {
+          "name": "2 claws",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+8",
+      "dex": "–2",
+      "level": 4
+    }
+  },
+  "archaeopteryx": {
+    "source": " PZO1140",
+    "description": "This primeval toothed bird has bright plumage, but it is a relatively poor flyer.",
+    "size": "small",
+    "speed": { "base": 30, "fly": 40, "maneuverability": "poor" },
+    "str": 8,
+    "dex": 15,
+    "con": 12,
+    "int": 2,
+    "wis": 13,
+    "cha": 7,
+    "specialQualities": ["low-light vision"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": { "attacks": [], "dex": "+2", "level": 4 }
+  },
+  "archelon": {
+    "size": "medium",
+    "speed": { "base": 15, "swim": 50 },
+    "str": 8,
+    "dex": 10,
+    "con": 9,
+    "int": 2,
+    "wis": 13,
+    "cha": 6,
+    "specialQualities": ["low-light vision", "hold breath", "scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d6",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+10", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d8",
+          "damageType": "b, p, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+8",
+      "dex": "–2",
+      "level": 7
+    }
+  },
+  "armorfish": {
+    "source": " PZO1140",
+    "description": "The armorfish is a primeval aquatic creature that has exceptionally thick armored scales along its head and back.",
+    "size": "small",
+    "speed": { "swim": 30 },
+    "str": 13,
+    "dex": 13,
+    "con": 15,
+    "int": 1,
+    "wis": 8,
+    "cha": 2,
+    "specialQualities": ["aquatic", "low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+6", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "medium",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b, p, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+2",
+      "dex": "–2",
+      "level": 4
+    }
+  },
+  "arsinoitherium": {
+    "size": "medium",
+    "speed": { "base": 30 },
+    "str": 14,
+    "dex": 12,
+    "con": 15,
+    "int": 2,
+    "wis": 13,
+    "cha": 3,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      { "name": "gore", "type": "natural", "damage": "1d8", "damageType": "p" }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+4", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "gore",
+          "type": "natural",
+          "damage": "2d8",
+          "damageType": "p"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "specialQualities": ["powerful charge (gore", ""],
+      "str": "+8",
+      "dex": "–2",
+      "con": "+4",
+      "level": 7
+    }
+  },
+  "aurochs": {
+    "size": "medium",
+    "speed": { "base": 40 },
+    "str": 14,
+    "dex": 12,
+    "con": 12,
+    "int": 2,
+    "wis": 11,
+    "cha": 4,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      { "name": "gore", "type": "natural", "damage": "1d6", "damageType": "p" }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "gore",
+          "type": "natural",
+          "damage": "1d8",
+          "damageType": "p"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+3",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "specialQualities": ["stampede", "trample"],
+      "str": "+8",
+      "dex": "–2",
+      "con": "+4",
+      "level": 7
+    }
+  },
+  "axe beak": {
+    "size": "medium",
+    "speed": { "base": 50 },
+    "str": 10,
+    "dex": 17,
+    "con": 12,
+    "int": 2,
+    "wis": 11,
+    "cha": 10,
+    "specialQualities": ["low-light vision"],
+    "attacks": [],
+    "advancements": {
+      "size": "large",
+      "attacks": [],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+8",
+      "dex": "–2",
+      "con": "+4",
+      "specialAttacks": ["sudden charge"],
+      "level": 4
+    }
+  },
+  "baboon": {
+    "size": "small",
+    "speed": { "undefined": 30 },
+    "str": 12,
+    "dex": 15,
+    "con": 12,
+    "int": 2,
+    "wis": 12,
+    "cha": 5,
+    "specialQualities": ["low-light vision"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, p, s"
+      }
+    ],
+    "advancements": { "attacks": [], "str": "+2", "level": 4 }
+  },
+  "badger": {
+    "size": "small",
+    "speed": { "base": 30, "burrow": 10, "climb": 10 },
+    "str": 10,
+    "dex": 17,
+    "con": 15,
+    "int": 2,
+    "wis": 12,
+    "cha": 10,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, p, s"
+      },
+      {
+        "name": "2 claws",
+        "type": "natural",
+        "damage": "1d3",
+        "damageType": "b, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+2", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "medium",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b, p, s"
+        },
+        {
+          "name": "2 claws",
+          "type": "natural",
+          "damage": "1d4",
+          "damageType": "b, s"
+        }
+      ],
+      "str": "+4",
+      "dex": "–2",
+      "level": 4
+    }
+  },
+  "baluchitherium": {
+    "size": "medium",
+    "speed": { "base": 40 },
+    "str": 14,
+    "dex": 14,
+    "con": 15,
+    "int": 2,
+    "wis": 13,
+    "cha": 6,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "2 hooves",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+4", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "2 hooves",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+3",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+8",
+      "dex": "–2",
+      "con": "+4",
+      "specialAttacks": ["trample"],
+      "level": 7
+    }
+  },
+  "basilosaurus": {
+    "size": "medium",
+    "speed": { "swim": 40 },
+    "str": 11,
+    "dex": 14,
+    "con": 12,
+    "int": 2,
+    "wis": 14,
+    "cha": 6,
+    "specialQualities": ["low-light vision", "hold breath"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, p, s"
+      },
+      {
+        "name": "tail slap",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b, p, s"
+        },
+        {
+          "name": "tail slap",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "specialQualities": ["blindsense "],
+      "str": "+8",
+      "dex": "–2",
+      "con": "+4",
+      "level": 7
+    }
+  },
+  "bat, dire": {
+    "size": "medium",
+    "speed": {
+      "base": 20,
+      "fly": 40,
+      "maneuverability": "good",
+      "blindsense": 40
+    },
+    "str": 9,
+    "dex": 17,
+    "con": 9,
+    "int": 2,
+    "wis": 14,
+    "cha": 6,
+    "specialQualities": ["blindsense "],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d6",
+        "damageType": "b, p, s"
+      }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d8",
+          "damageType": "b, p, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+3",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+8",
+      "dex": "–2",
+      "level": 7
+    }
+  },
+  "bear": {
+    "size": "small",
+    "speed": { "base": 40 },
+    "str": 15,
+    "dex": 15,
+    "con": 13,
+    "int": 2,
+    "wis": 12,
+    "cha": 6,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, p, s"
+      },
+      {
+        "name": "2 claws",
+        "type": "natural",
+        "damage": "1d3",
+        "damageType": "b, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+2", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "medium",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b, p, s"
+        },
+        {
+          "name": "2 claws",
+          "type": "natural",
+          "damage": "1d4",
+          "damageType": "b, s"
+        }
+      ],
+      "str": "+4",
+      "dex": "–2",
+      "level": 4
+    }
+  },
+  "bear, grizzly": {
+    "source": " PZO1140",
+    "description": "The infamous grizzly bear is a lumbering and quite impressive companion, particularly when it rises up on its hind feet to loom large. Grizzly bears strike fear into the hearts of most who encounter them.",
+    "size": "medium",
+    "speed": { "base": 40 },
+    "str": 17,
+    "dex": 13,
+    "con": 13,
+    "int": 2,
+    "wis": 13,
+    "cha": 6,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d6",
+        "damageType": "b, p, s"
+      },
+      {
+        "name": "2 claws",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d8",
+          "damageType": "b, p, s"
+        },
+        {
+          "name": "2 claws",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b, s",
+          "plus": "grab"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+4",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+4",
+      "dex": "–2",
+      "level": 7
+    }
+  },
+  "bird": {
+    "size": "small",
+    "speed": { "base": 10, "fly": 80, "maneuverability": "average" },
+    "str": 10,
+    "dex": 15,
+    "con": 12,
+    "int": 2,
+    "wis": 14,
+    "cha": 6,
+    "specialQualities": ["low-light vision"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, p, s"
+      },
+      {
+        "name": "2 talons",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": { "attacks": [], "str": "+2", "level": 4 }
+  },
+  "bird, owl (giant)": {
+    "source": " PZO1140",
+    "description": "Unlike the magical beast of the same name, this owl is a mundane but unusually large specimen of its kind, with powerful wings and deadly talons.",
+    "size": "medium",
+    "speed": { "base": 10, "fly": 60, "maneuverability": "average" },
+    "str": 10,
+    "dex": 17,
+    "con": 13,
+    "int": 2,
+    "wis": 13,
+    "cha": 6,
+    "specialQualities": ["low-light vision"],
+    "attacks": [
+      {
+        "name": "2 talons",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+2", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "2 talons",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+8",
+      "dex": "–2",
+      "con": "+4",
+      "specialAttacks": ["rend ("],
+      "level": 7
+    }
+  },
+  "bird, blackwisp egret": {
+    "source": ": PAP91",
+    "size": "small",
+    "speed": { "base": 30, "fly": 30, "maneuverability": "poor" },
+    "str": 8,
+    "dex": 17,
+    "con": 8,
+    "int": 2,
+    "wis": 13,
+    "cha": 5,
+    "specialQualities": ["low-light vision"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "medium",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b, p, s"
+        }
+      ],
+      "specialQualities": ["deceptive target"],
+      "str": "+4",
+      "dex": "–2",
+      "con": "+2",
+      "level": 4
+    }
+  },
+  "boar": {
+    "size": "small",
+    "speed": { "base": 40 },
+    "str": 13,
+    "dex": 12,
+    "con": 15,
+    "int": 2,
+    "wis": 13,
+    "cha": 4,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      { "name": "gore", "type": "natural", "damage": "1d6", "damageType": "p" }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+6", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "medium",
+      "attacks": [
+        {
+          "name": "gore",
+          "type": "natural",
+          "damage": "1d8",
+          "damageType": "p"
+        }
+      ],
+      "str": "+4",
+      "dex": "–2",
+      "con": "+2",
+      "specialAttacks": ["ferocity"],
+      "level": 4
+    }
+  },
+  "bristle boar": {
+    "source": ": PPC:Orcs",
+    "size": "small",
+    "speed": { "base": 40 },
+    "str": 15,
+    "dex": 10,
+    "con": 15,
+    "int": 2,
+    "wis": 11,
+    "cha": 4,
+    "attacks": [
+      { "name": "gore", "type": "natural", "damage": "1d6", "damageType": "p" }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+6", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "medium",
+      "attacks": [
+        {
+          "name": "gore",
+          "type": "natural",
+          "damage": "1d8",
+          "damageType": "p"
+        }
+      ],
+      "str": "+4",
+      "dex": "–2",
+      "con": "+2",
+      "specialAttacks": ["spines"],
+      "level": 4
+    }
+  },
+  "brachiosaurus": {
+    "size": "medium",
+    "speed": { "base": 30 },
+    "str": 13,
+    "dex": 14,
+    "con": 11,
+    "int": 2,
+    "wis": 13,
+    "cha": 10,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      { "name": "tail", "type": "natural", "damage": "2d4", "damageType": "b" }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+3", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "tail",
+          "type": "natural",
+          "damage": "2d6",
+          "damageType": "b"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "specialQualities": ["trample ("],
+      "str": "+8",
+      "dex": "–2",
+      "con": "+4",
+      "level": 7
+    }
+  },
+  "brontotherium": {
+    "source": " PRG:B6",
+    "size": "medium",
+    "speed": { "base": 40 },
+    "str": 12,
+    "dex": 15,
+    "con": 12,
+    "int": 2,
+    "wis": 17,
+    "cha": 7,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      { "name": "slam", "type": "natural", "damage": "1d10", "damageType": "b" }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+8", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "slam",
+          "type": "natural",
+          "damage": "2d6",
+          "damageType": "b"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "specialQualities": ["powerful charge (slam)", "trample"],
+      "str": "+8",
+      "dex": "–2",
+      "con": "+4",
+      "level": 7
+    }
+  },
+  "bull, war": {
+    "source": ": Orcs",
+    "size": "medium",
+    "speed": { "base": 40 },
+    "str": 15,
+    "dex": 14,
+    "con": 13,
+    "int": 2,
+    "wis": 11,
+    "cha": 4,
+    "attacks": [
+      { "name": "gore", "type": "natural", "damage": "1d8", "damageType": "p" }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+4", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "gore",
+          "type": "natural",
+          "damage": "2d6",
+          "damageType": "p"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+3",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+8",
+      "dex": "–2",
+      "con": "+4",
+      "specialAttacks": ["trample"],
+      "level": 4
+    }
+  },
+  "bustard": {
+    "source": " PZO1140",
+    "description": "The bustard is a sizable bird with long legs. Bustards can fly, but they do so relatively poorly and prefer to walk or run.",
+    "size": "medium",
+    "speed": { "base": 20, "fly": 50, "maneuverability": "poor" },
+    "str": 13,
+    "dex": 14,
+    "con": 13,
+    "int": 2,
+    "wis": 13,
+    "cha": 5,
+    "specialQualities": ["low-light vision"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d6",
+        "damageType": "b, p, s"
+      },
+      {
+        "name": "2 talons",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+2", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": { "attacks": [], "str": "+2", "level": 4 }
+  },
+  "camel": {
+    "size": "large",
+    "speed": { "base": 50 },
+    "str": 18,
+    "dex": 16,
+    "con": 14,
+    "int": 2,
+    "wis": 11,
+    "cha": 4,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": { "attacks": [], "str": "+2", "level": 4 }
+  },
+  "cameroceras": {
+    "source": " B5",
+    "size": "medium",
+    "speed": { "swim": 20, "jet": 90 },
+    "str": 14,
+    "dex": 15,
+    "con": 11,
+    "int": 2,
+    "wis": 12,
+    "cha": 2,
+    "specialQualities": ["low-light vision", "pressure adaptation"],
+    "attacks": [
+      {
+        "name": "tentacles",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b",
+        "plus": "grab"
+      },
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d3",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "tentacles",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b",
+          "plus": "grab"
+        },
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d4",
+          "damageType": "b, p, s"
+        },
+        { "name": "nstrict", "type": "natural", "damage": "1d6" }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+4",
+      "dex": "-2",
+      "con": "+2",
+      "specialAttacks": [
+        { "name": "constrict", "type": "natural", "damage": "1d6" },
+        "constrict ("
+      ],
+      "level": 7
+    }
+  },
+  "capybara": {
+    "source": " PZO1140",
+    "description": "This large, brown-furred rodent is equally at home on land or in the water, and is often found near lakes and rivers.",
+    "size": "medium",
+    "speed": { "base": 30, "swim": 20 },
+    "str": 12,
+    "dex": 15,
+    "con": 12,
+    "int": 2,
+    "wis": 13,
+    "cha": 5,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d6",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": { "attacks": [], "str": "+2", "level": 4 }
+  },
+  "cat, big": {
+    "size": "medium",
+    "speed": { "base": 40 },
+    "str": 13,
+    "dex": 17,
+    "con": 13,
+    "int": 2,
+    "wis": 15,
+    "cha": 10,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d6",
+        "damageType": "b, p, s"
+      },
+      {
+        "name": "2 claws",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, s"
+      },
+      { "name": "rake", "type": "natural", "damage": "1d4" }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d8",
+          "damageType": "b, p, s"
+        },
+        {
+          "name": "2 claws",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+8",
+      "dex": "–2",
+      "con": "+4",
+      "specialAttacks": ["grab", "pounce", "rake ("],
+      "level": 7
+    }
+  },
+  "cat, small": {
+    "size": "small",
+    "speed": { "base": 50 },
+    "str": 12,
+    "dex": 21,
+    "con": 13,
+    "int": 2,
+    "wis": 12,
+    "cha": 6,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, p, s",
+        "plus": "trip"
+      },
+      {
+        "name": "2 claws",
+        "type": "natural",
+        "damage": "1d2",
+        "damageType": "b, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "medium",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b, p, s"
+        },
+        {
+          "name": "2 claws",
+          "type": "natural",
+          "damage": "1d3",
+          "damageType": "b, s"
+        }
+      ],
+      "specialQualities": ["sprint"],
+      "str": "+4",
+      "dex": "–2",
+      "con": "+2",
+      "level": 4
+    }
+  },
+  "cattle": {
+    "source": " PZO1140",
+    "description": "Commonly seen as a docile farm animal, an ill-tempered bull or cow can be an effective animal companion as well.",
+    "size": "medium",
+    "speed": { "base": 40 },
+    "str": 14,
+    "dex": 12,
+    "con": 12,
+    "int": 2,
+    "wis": 11,
+    "cha": 4,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      { "name": "gore", "type": "natural", "damage": "1d6", "damageType": "p" }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+2", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "gore",
+          "type": "natural",
+          "damage": "1d8",
+          "damageType": "p"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "specialQualities": ["powerful charge (gore", ""],
+      "str": "+8",
+      "dex": "–2",
+      "con": "+4",
+      "level": 7
+    }
+  },
+  "ceratosaurus": {
+    "source": " B5",
+    "size": "medium",
+    "speed": { "base": 40 },
+    "str": 14,
+    "dex": 17,
+    "con": 11,
+    "int": 2,
+    "wis": 11,
+    "cha": 10,
+    "specialQualities": ["low-light vision", "scent", "trip"],
+    "attacks": [],
+    "bonuses": [
+      { "stat": "ac", "value": "+4", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "specialQualities": ["blood rage"],
+      "str": "+8",
+      "dex": "-2",
+      "con": "+4",
+      "level": 7
+    }
+  },
+  "chalicotherium": {
+    "source": " B5",
+    "size": "medium",
+    "speed": { "base": 30, "climb": 30 },
+    "str": 12,
+    "dex": 14,
+    "con": 13,
+    "int": 2,
+    "wis": 13,
+    "cha": 3,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "2 claws",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+4", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "2 claws",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+8",
+      "dex": "-2",
+      "con": "+4",
+      "level": 7
+    }
+  },
+  "chameleon, giant": {
+    "size": "medium",
+    "speed": { "base": 30, "climb": 30 },
+    "str": 12,
+    "dex": 14,
+    "con": 14,
+    "int": 2,
+    "wis": 11,
+    "cha": 7,
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d6",
+        "damageType": "b, p, s"
+      }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d8",
+          "damageType": "b, p, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+4",
+      "dex": "–2",
+      "con": "+2",
+      "specialAttacks": ["pull (tongue", ""],
+      "level": 4
+    }
+  },
+  "chimpanzee": {
+    "source": " PZO1140",
+    "description": "This small primate is more dangerous than its size suggests.",
+    "size": "small",
+    "speed": { "base": 30, "climb": 30 },
+    "str": 13,
+    "dex": 17,
+    "con": 12,
+    "int": 2,
+    "wis": 12,
+    "cha": 7,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, p, s"
+      },
+      {
+        "name": "slam",
+        "type": "natural",
+        "damage": "1d3",
+        "damageType": "b",
+        "plus": "grab"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "medium",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b, p, s"
+        },
+        {
+          "name": "slam",
+          "type": "natural",
+          "damage": "1d4",
+          "damageType": "b",
+          "plus": "grab"
+        }
+      ],
+      "str": "+4",
+      "dex": "–2",
+      "level": 4
+    }
+  },
+  "crocodile": {
+    "size": "small",
+    "speed": { "base": 20, "swim": 30 },
+    "str": 15,
+    "dex": 14,
+    "con": 15,
+    "int": 1,
+    "wis": 12,
+    "cha": 2,
+    "specialQualities": ["hold breath", "low-light vision"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d6",
+        "damageType": "b, p, s",
+        "plus": "grab"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+4", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "medium",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d8",
+          "damageType": "b, p, s"
+        },
+        { "name": "or tail slap", "type": "natural", "damage": "1d12" }
+      ],
+      "str": "+4",
+      "dex": "–2",
+      "con": "+2",
+      "specialAttacks": ["death roll", "sprint"],
+      "level": 4
+    }
+  },
+  "deer, reindeer": {
+    "source": " PZO1140",
+    "description": "A denizen of the frozen tundra, the reindeer is a sure-footed companion in icy terrain, and it can used for transportation as well as defense.",
+    "size": "medium",
+    "speed": { "base": 50 },
+    "str": 13,
+    "dex": 14,
+    "con": 13,
+    "int": 2,
+    "wis": 12,
+    "cha": 5,
+    "specialQualities": [
+      "low-light vision",
+      "scent",
+      "snow adaptation (ignore difficult terrain from ice and snow)"
+    ],
+    "attacks": [
+      { "name": "gore", "type": "natural", "damage": "1d6", "damageType": "p" }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+2", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": { "attacks": [], "str": "+2", "dex": "+2", "level": 4 }
+  },
+  "deer, ringhorn": {
+    "source": " PAP115",
+    "size": "small",
+    "speed": { "base": 40 },
+    "str": 11,
+    "dex": 18,
+    "con": 11,
+    "int": 2,
+    "wis": 12,
+    "cha": 13,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "2 hooves",
+        "type": "natural",
+        "damage": "1d3",
+        "damageType": "b"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "medium",
+      "attacks": [
+        {
+          "name": "2 hooves",
+          "type": "natural",
+          "damage": "1d4",
+          "damageType": "b"
+        }
+      ],
+      "str": "+2",
+      "dex": "–2",
+      "con": "+2",
+      "level": 4
+    }
+  },
+  "deinonychus": {
+    "size": "small",
+    "speed": { "base": 60 },
+    "str": 11,
+    "dex": 17,
+    "con": 17,
+    "int": 2,
+    "wis": 12,
+    "cha": 14,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "2 talons",
+        "type": "natural",
+        "damage": "1d6",
+        "damageType": "s"
+      },
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "medium",
+      "attacks": [
+        {
+          "name": "2 talons",
+          "type": "natural",
+          "damage": "1d8",
+          "damageType": "s"
+        },
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b, p, s"
+        },
+        {
+          "name": "2 claws",
+          "type": "natural",
+          "damage": "1d4",
+          "damageType": "b, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+4",
+      "dex": "–2",
+      "con": "+2",
+      "specialAttacks": ["pounce"],
+      "level": 7
+    }
+  },
+  "deinotherium": {
+    "source": " PRG:B6",
+    "size": "medium",
+    "speed": { "base": 30 },
+    "str": 14,
+    "dex": 10,
+    "con": 15,
+    "int": 2,
+    "wis": 13,
+    "cha": 3,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      { "name": "slam", "type": "natural", "damage": "1d6", "damageType": "b" },
+      { "name": "gore", "type": "natural", "damage": "1d8", "damageType": "p" }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+4", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "slam",
+          "type": "natural",
+          "damage": "1d8",
+          "damageType": "b"
+        },
+        {
+          "name": "gore",
+          "type": "natural",
+          "damage": "2d6",
+          "damageType": "p"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "specialQualities": ["sweep", "trample"],
+      "str": "+8",
+      "dex": "–2",
+      "con": "+4",
+      "level": 7
+    }
+  },
+  "devil monkey": {
+    "source": " PRG:B6",
+    "size": "medium",
+    "speed": { "base": 30 },
+    "str": 15,
+    "dex": 19,
+    "con": 8,
+    "int": 2,
+    "wis": 15,
+    "cha": 10,
+    "specialQualities": ["low-light vision"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d8",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+3", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d10",
+          "damageType": "b, p, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "specialQualities": ["puncture armor", "rock throwing"],
+      "str": "+8",
+      "dex": "–2",
+      "con": "+4",
+      "level": 4
+    }
+  },
+  "digmaul": {
+    "source": " B5",
+    "size": "small",
+    "speed": { "base": 50 },
+    "str": 10,
+    "dex": 21,
+    "con": 13,
+    "int": 2,
+    "wis": 12,
+    "cha": 6,
+    "specialQualities": ["ball tail", "low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, p, s"
+      },
+      {
+        "name": "2 claws",
+        "type": "natural",
+        "damage": "1d2",
+        "damageType": "b, s"
+      },
+      { "name": "tail", "type": "natural", "damage": "1d2", "damageType": "b" }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "medium",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b, p, s"
+        },
+        {
+          "name": "2 claws",
+          "type": "natural",
+          "damage": "1d3",
+          "damageType": "b, s"
+        },
+        {
+          "name": "tail",
+          "type": "natural",
+          "damage": "1d3",
+          "damageType": "b"
+        }
+      ],
+      "str": "+4",
+      "dex": "-2",
+      "level": 4
+    }
+  },
+  "dimetrodon": {
+    "size": "medium",
+    "speed": { "base": 30 },
+    "str": 12,
+    "dex": 16,
+    "con": 14,
+    "int": 1,
+    "wis": 12,
+    "cha": 3,
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d8",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+2", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "2d8",
+          "damageType": "b, p, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+1",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+8",
+      "dex": "–2",
+      "level": 7
+    }
+  },
+  "dimorphodon": {
+    "source": ": PRG:B4",
+    "size": "small",
+    "speed": { "base": 10, "fly": 80, "maneuverability": "clumsy" },
+    "str": 8,
+    "dex": 15,
+    "con": 12,
+    "int": 2,
+    "wis": 14,
+    "cha": 6,
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b, p, s"
+        }
+      ],
+      "str": "+2",
+      "con": "+2",
+      "specialAttacks": ["poison (frequency "],
+      "level": 4
+    }
+  },
+  "diplodocus": {
+    "source": ": PRG:B4",
+    "size": "medium",
+    "speed": { "base": 30 },
+    "str": 10,
+    "dex": 14,
+    "con": 10,
+    "int": 2,
+    "wis": 12,
+    "cha": 10,
+    "attacks": [
+      { "name": "tail", "type": "natural", "damage": "1d8", "damageType": "b" }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+6", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "tail",
+          "type": "natural",
+          "damage": "2d6",
+          "damageType": "b"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+3",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+6",
+      "con": "+4",
+      "level": 7
+    }
+  },
+  "dog": {
+    "size": "small",
+    "speed": { "base": 40 },
+    "str": 13,
+    "dex": 17,
+    "con": 15,
+    "int": 2,
+    "wis": 12,
+    "cha": 6,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+2", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "medium",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b, p, s"
+        }
+      ],
+      "str": "+4",
+      "dex": "–2",
+      "level": 4
+    }
+  },
+  "dolphin": {
+    "size": "medium",
+    "speed": { "swim": 80 },
+    "str": 12,
+    "dex": 15,
+    "con": 13,
+    "int": 2,
+    "wis": 12,
+    "cha": 6,
+    "specialQualities": ["low-light vision", "hold breath"],
+    "attacks": [
+      { "name": "slam", "type": "natural", "damage": "1d4", "damageType": "b" }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "attacks": [],
+      "specialQualities": ["blindsight "],
+      "str": "+2",
+      "dex": "+2",
+      "con": "+2",
+      "level": 4
+    }
+  },
+  "drake": {
+    "source": ": PZO9470",
+    "size": "tiny",
+    "speed": { "base": 20 },
+    "str": 8,
+    "dex": 17,
+    "con": 11,
+    "int": 4,
+    "wis": 10,
+    "cha": 7,
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d3",
+        "damageType": "b, p, s"
+      }
+    ],
+    "advancements": { "attacks": [], "level": null }
+  },
+  "dunkleosteus": {
+    "source": " PRG:B6",
+    "size": "medium",
+    "speed": { "swim": 60 },
+    "str": 14,
+    "dex": 18,
+    "con": 10,
+    "int": 1,
+    "wis": 13,
+    "cha": 6,
+    "specialQualities": ["low-light vision"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d8",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+4", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "2d6",
+          "damageType": "b, p, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "specialQualities": ["grab (bite)", "gulp"],
+      "str": "+8",
+      "dex": "–2",
+      "con": "+4",
+      "level": 7
+    }
+  },
+  "eel, electric": {
+    "size": "small",
+    "speed": { "swim": 30 },
+    "str": 12,
+    "dex": 14,
+    "con": 18,
+    "int": 1,
+    "wis": 10,
+    "cha": 6,
+    "specialQualities": [
+      "amphibious",
+      "low-light vision",
+      "electricity resistance "
+    ],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d6",
+        "damageType": "b, p, s"
+      }
+    ],
+    "advancements": {
+      "attacks": [],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "specialQualities": ["electricity ("],
+      "dex": "+2",
+      "con": "+2",
+      "level": 4
+    }
+  },
+  "elasmosaurus": {
+    "size": "medium",
+    "speed": { "base": 20, "swim": 50 },
+    "str": 10,
+    "dex": 18,
+    "con": 12,
+    "int": 2,
+    "wis": 13,
+    "cha": 9,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d8",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+2", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "2d6",
+          "damageType": "b, p, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+3",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+8",
+      "dex": "–2",
+      "level": 4
+    }
+  },
+  "elasmotherium": {
+    "source": " PRG:B6",
+    "size": "medium",
+    "speed": { "base": 40 },
+    "str": 14,
+    "dex": 12,
+    "con": 15,
+    "int": 2,
+    "wis": 17,
+    "cha": 3,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      { "name": "gore", "type": "natural", "damage": "1d8", "damageType": "p" }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+4", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "gore",
+          "type": "natural",
+          "damage": "2d6",
+          "damageType": "p"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+3",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+8",
+      "dex": "–2",
+      "con": "+4",
+      "specialAttacks": ["impaling horn", "powerful charge (gore)"],
+      "level": 7
+    }
+  },
+  "elephant/mastodon": {
+    "size": "medium",
+    "speed": { "base": 40 },
+    "str": 14,
+    "dex": 14,
+    "con": 13,
+    "int": 2,
+    "wis": 13,
+    "cha": 7,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      { "name": "gore", "type": "natural", "damage": "1d8", "damageType": "p" },
+      { "name": "slam", "type": "natural", "damage": "1d6", "damageType": "b" }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+4", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "gore",
+          "type": "natural",
+          "damage": "2d6",
+          "damageType": "p"
+        },
+        {
+          "name": "slam",
+          "type": "natural",
+          "damage": "1d8",
+          "damageType": "b"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+3",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "specialQualities": ["trample ("],
+      "level": 7
+    }
+  },
+  "elk": {
+    "size": "medium",
+    "speed": { "base": 50 },
+    "str": 12,
+    "dex": 17,
+    "con": 14,
+    "int": 2,
+    "wis": 15,
+    "cha": 5,
+    "specialQualities": ["low-light vision"],
+    "attacks": [
+      { "name": "gore", "type": "natural", "damage": "1d6", "damageType": "p" },
+      { "name": "or 2 hooves", "type": "natural", "damage": "1d3" }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "gore",
+          "type": "natural",
+          "damage": "1d8",
+          "damageType": "p"
+        },
+        { "name": "or 2 hooves", "type": "natural", "damage": "1d4" }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+8",
+      "dex": "–2",
+      "level": 7
+    }
+  },
+  "embolotherium": {
+    "source": ": PAP91",
+    "size": "medium",
+    "speed": { "base": 30 },
+    "str": 14,
+    "dex": 10,
+    "con": 13,
+    "int": 2,
+    "wis": 13,
+    "cha": 3,
+    "specialQualities": ["low-light vision"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d6",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+6", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d8",
+          "damageType": "b, p, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "specialQualities": ["trample"],
+      "str": "+8",
+      "dex": "–2",
+      "con": "+4",
+      "level": 7
+    }
+  },
+  "eohippus": {
+    "source": " PZO1140",
+    "description": "The eohippus is a small, primeval ancestor of the modern horse. It has three-toed feet rather than hooves.",
+    "size": "small",
+    "speed": { "base": 40 },
+    "str": 11,
+    "dex": 15,
+    "con": 12,
+    "int": 2,
+    "wis": 11,
+    "cha": 4,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+2", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": { "attacks": [], "dex": "+2", "level": 4 }
+  },
+  "faerie mount": {
+    "source": " PZO90119",
+    "description": "Short legs and overlarge ears make this broad-chested canine seem almost comical.",
+    "size": "small",
+    "speed": { "base": 30 },
+    "str": 9,
+    "dex": 12,
+    "con": 15,
+    "int": 2,
+    "wis": 13,
+    "cha": 12,
+    "specialQualities": ["low-light vision", "Scent", "Stability"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "medium",
+      "attacks": [{ "name": "Bite", "type": "natural", "damage": "1d6" }],
+      "specialQualities": ["Sure-Footed"],
+      "dex": "-2",
+      "con": "+2",
+      "level": 4
+    }
+  },
+  "falcon": {
+    "source": " PZO1140",
+    "description": "This swift raptor has amazing eyesight and sharp talons.",
+    "size": "small",
+    "speed": { "base": 10, "fly": 90, "maneuverability": "good" },
+    "str": 10,
+    "dex": 15,
+    "con": 11,
+    "int": 2,
+    "wis": 15,
+    "cha": 6,
+    "specialQualities": ["low-light vision"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, p, s"
+      },
+      {
+        "name": "2 talons",
+        "type": "natural",
+        "damage": "1d3",
+        "damageType": "s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": { "attacks": [], "dex": "+2", "level": 4 }
+  },
+  "frilled lizard, giant": {
+    "source": " PZO1140",
+    "description": "This large lizard can display a frightening frill on its neck when it charges.",
+    "size": "medium",
+    "speed": { "base": 30, "climb": 30 },
+    "str": 13,
+    "dex": 15,
+    "con": 13,
+    "int": 2,
+    "wis": 14,
+    "cha": 10,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d6",
+        "damageType": "b, p, s"
+      },
+      { "name": "tail", "type": "natural", "damage": "1d4", "damageType": "b" }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+4", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d8",
+          "damageType": "b, p, s"
+        },
+        {
+          "name": "tail",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+8",
+      "dex": "–2",
+      "level": 7
+    }
+  },
+  "frog, giant": {
+    "size": "medium",
+    "speed": { "base": 30, "swim": 30 },
+    "str": 15,
+    "dex": 13,
+    "con": 16,
+    "int": 1,
+    "wis": 9,
+    "cha": 6,
+    "specialQualities": ["low-light vision", "scent", "tongue", "pull"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d6",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "attacks": [],
+      "specialQualities": ["swallow whole"],
+      "str": "+2",
+      "dex": "+2",
+      "level": 4
+    }
+  },
+  "gar": {
+    "size": "medium",
+    "speed": { "swim": 60 },
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d6",
+        "damageType": "b, p, s",
+        "plus": "grab"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d8",
+          "damageType": "b, p, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+3",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "level": 7
+    }
+  },
+  "gecko, giant": {
+    "size": "small",
+    "speed": { "base": 30 },
+    "str": 11,
+    "dex": 15,
+    "con": 12,
+    "int": 2,
+    "wis": 14,
+    "cha": 7,
+    "specialQualities": ["expert climber", "low-light vision"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d6",
+        "damageType": "b, p, s"
+      }
+    ],
+    "advancements": {
+      "size": "medium",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "2d4",
+          "damageType": "b, p, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+4",
+      "dex": "–2",
+      "level": 4
+    }
+  },
+  "giganotosaurus": {
+    "source": " PRG:B6",
+    "size": "medium",
+    "speed": { "base": 40 },
+    "str": 14,
+    "dex": 16,
+    "con": 10,
+    "int": 2,
+    "wis": 15,
+    "cha": 10,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d6",
+        "damageType": "b, p, s"
+      },
+      {
+        "name": "2 claws",
+        "type": "natural",
+        "damage": "1d3",
+        "damageType": "b, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+4", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d8",
+          "damageType": "b, p, s"
+        },
+        {
+          "name": "2 claws",
+          "type": "natural",
+          "damage": "1d4",
+          "damageType": "b, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+3",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "specialQualities": ["grab (bite)"],
+      "str": "+8",
+      "dex": "–2",
+      "con": "+4",
+      "level": 7
+    }
+  },
+  "giraffe": {
+    "source": ": PRG:B4",
+    "size": "medium",
+    "speed": { "base": 50 },
+    "str": 16,
+    "dex": 17,
+    "con": 12,
+    "int": 2,
+    "wis": 13,
+    "cha": 7,
+    "attacks": [
+      {
+        "name": "2 hooves",
+        "type": "natural",
+        "damage": "1d6",
+        "damageType": "b"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+2", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "2 hooves",
+          "type": "natural",
+          "damage": "1d8",
+          "damageType": "b"
+        },
+        {
+          "name": "slam",
+          "type": "natural",
+          "damage": "1d8",
+          "damageType": "b"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+4",
+      "dex": "–2",
+      "level": 7
+    }
+  },
+  "goblin dog": {
+    "size": "small",
+    "speed": { "base": 50 },
+    "str": 11,
+    "dex": 16,
+    "con": 11,
+    "int": 2,
+    "wis": 12,
+    "cha": 8,
+    "specialQualities": ["allergic reaction", "low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, p, s"
+      }
+    ],
+    "advancements": {
+      "size": "medium",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b, p, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+1",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+4",
+      "dex": "–2",
+      "level": 4
+    }
+  },
+  "glyptodon": {
+    "size": "medium",
+    "speed": { "base": 20 },
+    "str": 13,
+    "dex": 12,
+    "con": 13,
+    "int": 2,
+    "wis": 13,
+    "cha": 6,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "2 claws",
+        "type": "natural",
+        "damage": "1d8",
+        "damageType": "b, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+5", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "2 claws",
+          "type": "natural",
+          "damage": "1d10",
+          "damageType": "b, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+8",
+      "dex": "–2",
+      "level": 7
+    }
+  },
+  "heron, yolubilis": {
+    "source": " PAP97",
+    "size": "medium",
+    "speed": { "base": 30, "fly": 60, "maneuverability": "average" },
+    "str": 13,
+    "dex": 15,
+    "con": 14,
+    "int": 2,
+    "wis": 12,
+    "cha": 9,
+    "specialQualities": ["low-light vision"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d8",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+2", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "2d6",
+          "damageType": "b, p, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+8",
+      "dex": "–2",
+      "con": "+2",
+      "specialAttacks": ["still predator"],
+      "level": 7
+    }
+  },
+  "hippopotamus": {
+    "size": "medium",
+    "speed": { "base": 40 },
+    "str": 11,
+    "dex": 12,
+    "con": 12,
+    "int": 2,
+    "wis": 13,
+    "cha": 5,
+    "specialQualities": ["low-light vision", "scent", "sweat"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d8",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+6", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "2d8",
+          "damageType": "b, p, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+8",
+      "dex": "–2",
+      "con": "+4",
+      "level": 7
+    }
+  },
+  "horse": {
+    "size": "large",
+    "speed": { "base": 50 },
+    "str": 16,
+    "dex": 13,
+    "con": 15,
+    "int": 2,
+    "wis": 12,
+    "cha": 6,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+4", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": { "attacks": [], "level": null }
+  },
+  "hyena": {
+    "size": "small",
+    "speed": { "base": 50 },
+    "str": 10,
+    "dex": 17,
+    "con": 13,
+    "int": 2,
+    "wis": 13,
+    "cha": 6,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, p, s",
+        "plus": "trip"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+2", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "medium",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b, p, s"
+        }
+      ],
+      "str": "+4",
+      "dex": "–2",
+      "level": 4
+    }
+  },
+  "iguanodon": {
+    "size": "medium",
+    "speed": { "base": 30 },
+    "attacks": [
+      {
+        "name": "claw",
+        "type": "natural",
+        "damage": "1d6",
+        "damageType": "b, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+3", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "claw",
+          "type": "natural",
+          "damage": "1d8",
+          "damageType": "b, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+8",
+      "dex": "–2",
+      "con": "+4",
+      "specialAttacks": ["thumb spikes"],
+      "level": 7
+    }
+  },
+  "jackal, switchback": {
+    "source": " PAP115",
+    "size": "small",
+    "speed": { "base": 40 },
+    "str": 11,
+    "dex": 13,
+    "con": 14,
+    "int": 2,
+    "wis": 13,
+    "cha": 6,
+    "specialQualities": ["low-light vision", "problem solver", "scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, p, s"
+      },
+      {
+        "name": "2 claws",
+        "type": "natural",
+        "damage": "1d3",
+        "damageType": "b, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "attacks": [],
+      "dex": "+4",
+      "con": "+2",
+      "wis": "+2",
+      "level": 4
+    }
+  },
+  "kangaroo": {
+    "size": "medium",
+    "speed": { "base": 40 },
+    "str": 12,
+    "dex": 14,
+    "con": 13,
+    "int": 2,
+    "wis": 11,
+    "cha": 7,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [{ "name": "kick", "type": "natural", "damage": "1d4" }],
+    "advancements": {
+      "size": "medium",
+      "attacks": [{ "name": "kick", "type": "natural", "damage": "1d6" }],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+4",
+      "dex": "+2",
+      "level": 4
+    }
+  },
+  "kaprosuchus": {
+    "source": " B5",
+    "size": "medium",
+    "speed": { "base": 30 },
+    "str": 15,
+    "dex": 14,
+    "con": 15,
+    "int": 1,
+    "wis": 14,
+    "cha": 2,
+    "specialQualities": ["low-light vision"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d6",
+        "damageType": "b, p, s"
+      },
+      {
+        "name": "tail slap",
+        "type": "natural",
+        "damage": "1d6",
+        "damageType": "b"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+3", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d8",
+          "damageType": "b, p, s"
+        },
+        {
+          "name": "tail slap",
+          "type": "natural",
+          "damage": "1d8",
+          "damageType": "b"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+6",
+      "dex": "-2",
+      "con": "+4",
+      "specialAttacks": ["ramming snout"],
+      "level": 7
+    }
+  },
+  "kentrosaurus": {
+    "source": " PRG:B6",
+    "size": "medium",
+    "speed": { "base": 40 },
+    "str": 10,
+    "dex": 16,
+    "con": 10,
+    "int": 2,
+    "wis": 13,
+    "cha": 10,
+    "specialQualities": ["impaling strike", "low-light vision", "scent"],
+    "attacks": [
+      { "name": "tail", "type": "natural", "damage": "1d8", "damageType": "b" }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+2", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "tail",
+          "type": "natural",
+          "damage": "2d6",
+          "damageType": "b"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+3",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "specialQualities": ["defensive spikes"],
+      "str": "+8",
+      "dex": "–2",
+      "con": "+4",
+      "level": 7
+    }
+  },
+  "llama": {
+    "source": " PZO1140",
+    "description": "While some value it for its hair, the llama makes a fine animal companion as well, and it has traditionally been used as a beast of burden in mountainous regions.",
+    "size": "small",
+    "speed": { "base": 40 },
+    "str": 11,
+    "dex": 16,
+    "con": 12,
+    "int": 2,
+    "wis": 13,
+    "cha": 9,
+    "specialQualities": ["low-light vision"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "medium",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b, p, s"
+        }
+      ],
+      "str": "+4",
+      "dex": "–2",
+      "level": 4
+    }
+  },
+  "manta ray": {
+    "size": "medium",
+    "speed": { "swim": 60 },
+    "str": 8,
+    "dex": 15,
+    "con": 11,
+    "int": 1,
+    "wis": 13,
+    "cha": 2,
+    "specialQualities": ["low-light vision"],
+    "attacks": [
+      {
+        "name": "tail slap",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "tail slap",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "specialQualities": ["blindsense "],
+      "str": "+8",
+      "dex": "–2",
+      "con": "+4",
+      "level": 4
+    }
+  },
+  "mantis, giant": {
+    "size": "medium",
+    "speed": {
+      "base": 30,
+      "climb": 30,
+      "fly": 40,
+      "maneuverability": "average"
+    },
+    "specialQualities": ["darkvision"],
+    "attacks": [
+      {
+        "name": "2 claws",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, s",
+        "plus": "grab"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+3", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "2 claws",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+8",
+      "dex": "–2",
+      "con": "+4",
+      "specialAttacks": ["mandibles ("],
+      "level": 7
+    }
+  },
+  "marsupial devil": {
+    "source": " PZO1140",
+    "description": "This toothy marsupial has a perhaps undeserved reputation for ferocity.",
+    "size": "small",
+    "speed": { "base": 20 },
+    "str": 15,
+    "dex": 13,
+    "con": 12,
+    "int": 2,
+    "wis": 10,
+    "cha": 7,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d6",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": { "attacks": [], "str": "+4", "level": 4 }
+  },
+  "marsupial lion": {
+    "source": " PZO1140",
+    "description": "Somewhat slimmer than the standard lion, the marsupial lion is no less dangerous in battle.",
+    "size": "medium",
+    "speed": { "base": 30, "climb": 20 },
+    "str": 12,
+    "dex": 16,
+    "con": 13,
+    "int": 2,
+    "wis": 13,
+    "cha": 7,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d6",
+        "damageType": "b, p, s"
+      },
+      {
+        "name": "2 claws",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d8",
+          "damageType": "b, p, s"
+        },
+        {
+          "name": "2 claws",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b, s",
+          "plus": "grab"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+8",
+      "dex": "–2",
+      "level": 7
+    }
+  },
+  "megalania": {
+    "size": "medium",
+    "speed": { "base": 30 },
+    "str": 13,
+    "dex": 17,
+    "con": 12,
+    "int": 2,
+    "wis": 12,
+    "cha": 6,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d6",
+        "damageType": "b, p, s",
+        "plus": "grab"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+1",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+4",
+      "dex": "–2",
+      "level": 7
+    }
+  },
+  "megaloceros": {
+    "size": "medium",
+    "speed": { "base": 50 },
+    "str": 12,
+    "dex": 17,
+    "con": 14,
+    "int": 2,
+    "wis": 15,
+    "cha": 5,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      { "name": "gore", "type": "natural", "damage": "1d8", "damageType": "p" }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+3", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "gore",
+          "type": "natural",
+          "damage": "2d6",
+          "damageType": "p"
+        },
+        {
+          "name": "2 hooves",
+          "type": "natural",
+          "damage": "1d4",
+          "damageType": "b",
+          "secondary": true
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "specialQualities": ["powerful charge ("],
+      "str": "+8",
+      "dex": "–2",
+      "con": "+4",
+      "level": 7
+    }
+  },
+  "megatherium": {
+    "size": "medium",
+    "speed": { "base": 40, "climb": 10 },
+    "str": 9,
+    "dex": 14,
+    "con": 11,
+    "int": 2,
+    "wis": 13,
+    "cha": 6,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "2 claws",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+5", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "2 claws",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "specialQualities": ["rend ("],
+      "str": "+8",
+      "dex": "–2",
+      "con": "+4",
+      "level": 7
+    }
+  },
+  "moa": {
+    "source": " B5",
+    "size": "medium",
+    "speed": { "base": 30 },
+    "str": 13,
+    "dex": 16,
+    "con": 12,
+    "int": 2,
+    "wis": 11,
+    "cha": 9,
+    "specialQualities": ["low-light vision"],
+    "attacks": [
+      {
+        "name": "2 talons",
+        "type": "natural",
+        "damage": "1d3",
+        "damageType": "s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "2 talons",
+          "type": "natural",
+          "damage": "1d4",
+          "damageType": "s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+4",
+      "level": 7
+    }
+  },
+  "mokele-mbembe": {
+    "source": " PRG:B6",
+    "size": "medium",
+    "speed": { "base": 30, "swim": 30, "reach": 10 },
+    "str": 16,
+    "dex": 17,
+    "con": 10,
+    "int": 2,
+    "wis": 15,
+    "cha": 11,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d8",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+5", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "2d6",
+          "damageType": "b, p, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+4",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "specialQualities": ["trample", "whip tail"],
+      "str": "+8",
+      "dex": "–2",
+      "con": "+4",
+      "level": 9
+    }
+  },
+  "mole, giant": {
+    "source": " PZO1140",
+    "description": "This large-clawed burrowing mammal is slow but can burrow through loose earth and soil with ease to surprise its foes.",
+    "size": "small",
+    "speed": { "base": 20, "burrow": 10, "tremorsense": 30 },
+    "str": 12,
+    "dex": 15,
+    "con": 13,
+    "int": 2,
+    "wis": 10,
+    "cha": 5,
+    "specialQualities": ["low-light vision", "tremorsense "],
+    "attacks": [
+      {
+        "name": "2 claws",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "medium",
+      "attacks": [
+        {
+          "name": "2 claws",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+2",
+      "dex": "–2",
+      "con": "+4",
+      "specialAttacks": ["rend ("],
+      "level": 4
+    }
+  },
+  "monitor lizard": {
+    "size": "small",
+    "speed": { "base": 30, "swim": 30 },
+    "str": 13,
+    "dex": 17,
+    "con": 12,
+    "int": 2,
+    "wis": 12,
+    "cha": 6,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d6",
+        "damageType": "b, p, s",
+        "plus": "grab"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "medium",
+      "attacks": [],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+4",
+      "dex": "–2",
+      "level": 7
+    }
+  },
+  "moose": {
+    "source": " PZO1140",
+    "description": "Powerful and often ill tempered, the moose is an intimidating choice for an animal companion.",
+    "size": "medium",
+    "speed": { "base": 40 },
+    "str": 12,
+    "dex": 15,
+    "con": 14,
+    "int": 2,
+    "wis": 13,
+    "cha": 7,
+    "specialQualities": ["low-light vision"],
+    "attacks": [
+      { "name": "gore", "type": "natural", "damage": "1d6", "damageType": "p" },
+      {
+        "name": "2 hooves",
+        "type": "natural",
+        "damage": "1d3",
+        "damageType": "b"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+2", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "gore",
+          "type": "natural",
+          "damage": "1d8",
+          "damageType": "p"
+        },
+        {
+          "name": "2 hooves",
+          "type": "natural",
+          "damage": "1d4",
+          "damageType": "b"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+3",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+6",
+      "dex": "–2",
+      "con": "+4",
+      "specialAttacks": ["powerful charge (gore", ""],
+      "level": 7
+    }
+  },
+  "moray eel, giant": {
+    "size": "medium",
+    "speed": { "swim": 30 },
+    "str": 14,
+    "dex": 16,
+    "con": 12,
+    "int": 1,
+    "wis": 12,
+    "cha": 8,
+    "specialQualities": ["low-light vision"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d8",
+        "damageType": "b, p, s",
+        "plus": "grab"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+5", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "2d6",
+          "damageType": "b, p, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+3",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "specialQualities": ["gnaw"],
+      "str": "+8",
+      "dex": "–2",
+      "con": "+4",
+      "level": 7
+    }
+  },
+  "octopus": {
+    "size": "small",
+    "speed": { "base": 20, "swim": 30 },
+    "str": 12,
+    "dex": 17,
+    "con": 14,
+    "int": 2,
+    "wis": 12,
+    "cha": 3,
+    "specialQualities": ["low-light vision", "ink cloud"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d3",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": { "attacks": [], "str": "+2", "level": 4 }
+  },
+  "ornithomimosaur": {
+    "source": " PZO1140",
+    "description": "This bipedal dinosaur has long legs built for speed and a long neck that gives it an ostrichlike profile.",
+    "size": "medium",
+    "speed": { "base": 40 },
+    "str": 11,
+    "dex": 15,
+    "con": 12,
+    "int": 2,
+    "wis": 13,
+    "cha": 8,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "2 claws",
+        "type": "natural",
+        "damage": "1d8",
+        "damageType": "b, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "attacks": [],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+2",
+      "dex": "+2",
+      "con": "+2",
+      "level": 7
+    }
+  },
+  "ostrich": {
+    "source": " PCS:OLoP",
+    "size": "small",
+    "speed": { "base": 40 },
+    "str": 13,
+    "dex": 16,
+    "con": 12,
+    "int": 2,
+    "wis": 13,
+    "cha": 11,
+    "specialQualities": ["low-light vision"],
+    "attacks": [
+      {
+        "name": "claw",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "medium",
+      "attacks": [
+        {
+          "name": "claw",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b, s"
+        }
+      ],
+      "specialQualities": ["crouch"],
+      "str": "+4",
+      "dex": "–2",
+      "con": "+2",
+      "level": 4
+    }
+  },
+  "pachycephalosaurus": {
+    "size": "medium",
+    "speed": { "base": 30 },
+    "attacks": [
+      { "name": "gore", "type": "natural", "damage": "1d8", "damageType": "p" }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+3", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "gore",
+          "type": "natural",
+          "damage": "1d10",
+          "damageType": "p"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+8",
+      "dex": "–2",
+      "con": "+4",
+      "specialAttacks": ["clobbering charge"],
+      "level": 7
+    }
+  },
+  "panda": {
+    "source": " PZO1140",
+    "description": "Normally slow moving and docile, pandas are capable of surprising bursts of activity when needed.",
+    "size": "small",
+    "speed": { "base": 30 },
+    "str": 13,
+    "dex": 12,
+    "con": 14,
+    "int": 2,
+    "wis": 13,
+    "cha": 9,
+    "specialQualities": ["low-light vision"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, p, s"
+      },
+      {
+        "name": "2 claws",
+        "type": "natural",
+        "damage": "1d3",
+        "damageType": "b, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+2", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "medium",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b, p, s"
+        },
+        {
+          "name": "2 claws",
+          "type": "natural",
+          "damage": "1d4",
+          "damageType": "b, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+3",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+4",
+      "dex": "–2",
+      "con": "+4",
+      "specialAttacks": ["powerful bite"],
+      "level": 7
+    }
+  },
+  "parasaurolophus": {
+    "size": "medium",
+    "speed": { "base": 30 },
+    "str": 11,
+    "dex": 18,
+    "con": 9,
+    "int": 2,
+    "wis": 13,
+    "cha": 10,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      { "name": "tail", "type": "natural", "damage": "1d6", "damageType": "b" }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+2", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "tail",
+          "type": "natural",
+          "damage": "1d8",
+          "damageType": "b"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "specialQualities": ["trample ("],
+      "str": "+8",
+      "dex": "–2",
+      "con": "+4",
+      "level": 7
+    }
+  },
+  "plesiosaurus": {
+    "source": " B5",
+    "size": "medium",
+    "speed": { "swim": 60 },
+    "str": 12,
+    "dex": 15,
+    "con": 12,
+    "int": 2,
+    "wis": 15,
+    "cha": 9,
+    "specialQualities": ["keen scent", "low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d8",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "2d6",
+          "damageType": "b, p, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+3",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "specialQualities": ["ambush attack "],
+      "str": "+8",
+      "dex": "-2",
+      "con": "+4",
+      "level": 4
+    }
+  },
+  "pony": {
+    "size": "medium",
+    "speed": { "base": 40 },
+    "str": 13,
+    "dex": 13,
+    "con": 12,
+    "int": 2,
+    "wis": 11,
+    "cha": 4,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "2 hooves",
+        "type": "natural",
+        "damage": "1d3",
+        "damageType": "b"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+2", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "attacks": [],
+      "specialQualities": ["combat trained"],
+      "str": "+2",
+      "con": "+2",
+      "level": 4
+    }
+  },
+  "porcupine, giant": {
+    "source": " PZO1140",
+    "description": "This lumbering forest creature is adorned with an array of long, sharp quills that protrude from its coarse pelt.",
+    "size": "small",
+    "speed": { "base": 30 },
+    "str": 14,
+    "dex": 12,
+    "con": 15,
+    "int": 2,
+    "wis": 13,
+    "cha": 5,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "tail slap",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "medium",
+      "attacks": [
+        {
+          "name": "tail slap",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+2",
+      "dex": "–2",
+      "con": "+4",
+      "specialAttacks": ["quills (as giant porcupine quills)"],
+      "level": 4
+    }
+  },
+  "prionosuchus": {
+    "source": " PZO1140",
+    "description": "This primeval crocodile is equally effective in the water and on land. Its jaws are capable of crushing things with great force.",
+    "size": "medium",
+    "speed": { "base": 20, "swim": 30 },
+    "str": 13,
+    "dex": 14,
+    "con": 15,
+    "int": 1,
+    "wis": 12,
+    "cha": 4,
+    "specialQualities": ["scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d8",
+        "damageType": "b, p, s",
+        "plus": "grab"
+      },
+      { "name": "constrict", "type": "natural", "damage": "1d8" }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+2", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "2d6",
+          "damageType": "b, p, s",
+          "plus": "grab"
+        },
+        { "name": "nstrict", "type": "natural", "damage": "2d6" }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+4",
+      "dex": "–2",
+      "con": "+4",
+      "specialAttacks": [
+        { "name": "constrict", "type": "natural", "damage": "2d6" },
+        "constrict ("
+      ],
+      "level": 7
+    }
+  },
+  "pteranodon": {
+    "size": "medium",
+    "speed": { "base": 10, "fly": 50, "maneuverability": "clumsy" },
+    "str": 8,
+    "dex": 21,
+    "con": 10,
+    "int": 2,
+    "wis": 14,
+    "cha": 12,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d8",
+        "damageType": "b, p, s"
+      }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "2d6",
+          "damageType": "b, p, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+8",
+      "dex": "–2",
+      "level": 7
+    }
+  },
+  "python, riding": {
+    "source": ": PRG:MC",
+    "description": "Note This companion was originally intended for kobolds. Consult your GM before choosing this animal. A kobold cavalier can select this as a mount instead of a dog or pony.",
+    "size": "medium",
+    "speed": { "base": 30, "blindsight": 60 },
+    "str": 11,
+    "dex": 14,
+    "con": 13,
+    "int": 1,
+    "wis": 10,
+    "cha": 4,
+    "specialQualities": ["blindsight "],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d6",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "attacks": [],
+      "specialQualities": ["combat training (see Handle Animal)"],
+      "str": "+2",
+      "con": "+2",
+      "level": 4
+    }
+  },
+  "quetzalcoatlus": {
+    "source": " PRG:B6",
+    "size": "medium",
+    "speed": { "base": 30, "fly": 50, "maneuverability": "clumsy" },
+    "str": 9,
+    "dex": 21,
+    "con": 10,
+    "int": 2,
+    "wis": 14,
+    "cha": 12,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d8",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+2", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+3",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "specialQualities": ["razor-sharp beak"],
+      "str": "+8",
+      "dex": "–2",
+      "con": "+4",
+      "level": 9
+    }
+  },
+  "ram": {
+    "size": "small",
+    "speed": { "base": 40 },
+    "str": 10,
+    "dex": 17,
+    "con": 11,
+    "int": 2,
+    "wis": 14,
+    "cha": 7,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      { "name": "gore", "type": "natural", "damage": "1d3", "damageType": "p" }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "medium",
+      "attacks": [
+        {
+          "name": "gore",
+          "type": "natural",
+          "damage": "1d4",
+          "damageType": "p"
+        },
+        { "name": "powerful charge", "type": "natural", "damage": "1d8" }
+      ],
+      "str": "+4",
+      "dex": "–2",
+      "con": "+2",
+      "specialAttacks": [
+        { "name": "powerful charge", "type": "natural", "damage": "1d8" },
+        "powerful charge ("
+      ],
+      "level": 4
+    }
+  },
+  "ram, barbed": {
+    "source": ": PAP91",
+    "size": "small",
+    "speed": { "base": 40 },
+    "str": 10,
+    "dex": 17,
+    "con": 11,
+    "int": 2,
+    "wis": 14,
+    "cha": 7,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      { "name": "gore", "type": "natural", "damage": "1d4", "damageType": "p" }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "medium",
+      "attacks": [
+        {
+          "name": "gore",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "p"
+        }
+      ],
+      "str": "+4",
+      "dex": "–2",
+      "con": "+2",
+      "specialAttacks": ["bleed (gore", ""],
+      "level": 4
+    }
+  },
+  "rat, dire": {
+    "size": "small",
+    "speed": { "base": 40, "climb": 20, "swim": 20 },
+    "str": 10,
+    "dex": 17,
+    "con": 12,
+    "int": 2,
+    "wis": 12,
+    "cha": 4,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, p, s"
+      }
+    ],
+    "advancements": { "attacks": [], "str": "+2", "level": 4 }
+  },
+  "raven, giant": {
+    "source": " PRG:B6",
+    "size": "small",
+    "speed": { "base": 20, "fly": 50, "maneuverability": "average" },
+    "str": 8,
+    "dex": 13,
+    "con": 10,
+    "int": 2,
+    "wis": 15,
+    "cha": 7,
+    "specialQualities": ["low-light vision", "scavenger"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, p, s"
+      }
+    ],
+    "advancements": {
+      "size": "medium",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b, p, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+4",
+      "dex": "+2",
+      "level": 4
+    }
+  },
+  "rhinoceros": {
+    "size": "medium",
+    "speed": { "base": 40 },
+    "str": 14,
+    "dex": 14,
+    "con": 15,
+    "int": 2,
+    "wis": 13,
+    "cha": 5,
+    "specialQualities": ["scent"],
+    "attacks": [
+      { "name": "gore", "type": "natural", "damage": "1d8", "damageType": "p" }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+4", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "gore",
+          "type": "natural",
+          "damage": "2d6",
+          "damageType": "p"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+3",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "specialQualities": ["powerful charge (gore", ""],
+      "str": "+8",
+      "dex": "–2",
+      "con": "+4",
+      "level": 7
+    }
+  },
+  "roc": {
+    "size": "medium",
+    "speed": { "base": 20, "fly": 80 },
+    "str": 12,
+    "dex": 19,
+    "con": 9,
+    "int": 2,
+    "wis": 13,
+    "cha": 11,
+    "specialQualities": ["low-light vision"],
+    "attacks": [
+      {
+        "name": "2 talons",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "s"
+      },
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d6",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+5", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "2 talons",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "s",
+          "plus": "grab"
+        },
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d8",
+          "damageType": "b, p, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+3",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+8",
+      "dex": "–2",
+      "level": 7
+    }
+  },
+  "saber-toothed cat": {
+    "source": " PZO1140",
+    "description": "Somewhat smaller than the more ferocious saber-toothed tiger, the saber-toothed cat is nonetheless an impressive predatory creature.",
+    "size": "medium",
+    "speed": { "base": 40 },
+    "str": 15,
+    "dex": 15,
+    "con": 13,
+    "int": 2,
+    "wis": 13,
+    "cha": 8,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "2 claws",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, s",
+        "plus": "grab"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "2 claws",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b, s",
+          "plus": "grab"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+8",
+      "dex": "–2",
+      "con": "+4",
+      "specialAttacks": ["pounce", "saber-toothed bite ("],
+      "level": 7
+    }
+  },
+  "salamander, cave": {
+    "source": ": PRG:MC",
+    "description": "Note This companion was originally intended for kobolds. Consult your GM before choosing this animal. A kobold cavalier can select this as a mount instead of a dog or pony.",
+    "size": "medium",
+    "speed": { "base": 40, "darkvision": 60 },
+    "str": 13,
+    "dex": 12,
+    "con": 13,
+    "int": 1,
+    "wis": 12,
+    "cha": 4,
+    "specialQualities": ["darkvision "],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d6",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+2", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "attacks": [],
+      "specialQualities": ["combat training (see Handle Animal)"],
+      "str": "+2",
+      "con": "+2",
+      "level": 4
+    }
+  },
+  "salamander, giant": {
+    "source": " PZO1140",
+    "description": "This oversized amphibian has a mouth full of tiny but rather sharp teeth.",
+    "size": "medium",
+    "speed": { "base": 20, "swim": 30, "tremorsense": 30 },
+    "str": 13,
+    "dex": 14,
+    "con": 15,
+    "int": 1,
+    "wis": 12,
+    "cha": 4,
+    "specialQualities": ["amphibious", "tremorsense "],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+3", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "attacks": [],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+2",
+      "dex": "–2",
+      "con": "+4",
+      "level": 4
+    }
+  },
+  "seahorse": {
+    "source": ": PRG:B4",
+    "size": "large",
+    "speed": { "swim": 30 },
+    "str": 16,
+    "dex": 13,
+    "con": 15,
+    "int": 1,
+    "wis": 12,
+    "cha": 6,
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+4", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b, p, s"
+        }
+      ],
+      "str": "+2",
+      "con": "+2",
+      "level": 4
+    }
+  },
+  "shark": {
+    "size": "small",
+    "speed": { "swim": 60 },
+    "str": 13,
+    "dex": 15,
+    "con": 15,
+    "int": 1,
+    "wis": 12,
+    "cha": 2,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+4", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "medium",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b, p, s"
+        }
+      ],
+      "specialQualities": ["blindsense "],
+      "str": "+4",
+      "dex": "–2",
+      "con": "+2",
+      "level": 4
+    }
+  },
+  "shark, hammerhead": {
+    "source": " PZO1140",
+    "description": "This unusual shark is named for its blocky, rectangular head. The creature’s eyes are on each side of its head.",
+    "size": "medium",
+    "speed": { "swim": 60 },
+    "str": 13,
+    "dex": 14,
+    "con": 12,
+    "int": 1,
+    "wis": 15,
+    "cha": 6,
+    "specialQualities": ["aquatic", "low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d6",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+3", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d8",
+          "damageType": "b, p, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+3",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "specialQualities": ["blindsense "],
+      "str": "+2",
+      "dex": "–2",
+      "con": "+4",
+      "level": 7
+    }
+  },
+  "shrike, impaler": {
+    "source": " PAP97",
+    "size": "small",
+    "speed": { "base": 10, "fly": 60, "maneuverability": "average" },
+    "str": 12,
+    "dex": 13,
+    "con": 13,
+    "int": 2,
+    "wis": 14,
+    "cha": 7,
+    "specialQualities": ["low-light vision"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, p, s"
+      }
+    ],
+    "advancements": {
+      "size": "medium",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b, p, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+2",
+      "con": "+2",
+      "specialAttacks": ["impale"],
+      "level": 7
+    }
+  },
+  "skittergoat": {
+    "source": ": PAP91",
+    "size": "small",
+    "speed": { "base": 30 },
+    "str": 13,
+    "dex": 14,
+    "con": 11,
+    "int": 2,
+    "wis": 10,
+    "cha": 5,
+    "specialQualities": ["low-light vision"],
+    "attacks": [
+      { "name": "gore", "type": "natural", "damage": "1d4", "damageType": "p" }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "medium",
+      "attacks": [
+        {
+          "name": "gore",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "p"
+        }
+      ],
+      "specialQualities": ["egg cracker"],
+      "str": "+4",
+      "dex": "–2",
+      "con": "+2",
+      "level": 4
+    }
+  },
+  "skunk, giant": {
+    "source": " PZO1140",
+    "description": "Its unmistakable black-and-white-striped coloration gives a clear warning sign to any who’ve experienced this foul-smelling creature’s ire.",
+    "size": "medium",
+    "speed": { "base": 30 },
+    "str": 9,
+    "dex": 14,
+    "con": 13,
+    "int": 2,
+    "wis": 12,
+    "cha": 9,
+    "specialQualities": [
+      "low-light vision",
+      "musk (Fort save or sickened for "
+    ],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d6",
+        "damageType": "b, p, s"
+      },
+      {
+        "name": "2 claws",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d8",
+          "damageType": "b, p, s"
+        },
+        {
+          "name": "2 claws",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "specialQualities": ["musk (Fort save or nauseated for "],
+      "str": "+8",
+      "dex": "–2",
+      "con": "+4",
+      "specialAttacks": ["spray (usable "],
+      "level": 7
+    }
+  },
+  "snake, constrictor": {
+    "size": "medium",
+    "speed": { "base": 20, "climb": 20, "swim": 20 },
+    "str": 15,
+    "dex": 17,
+    "con": 13,
+    "int": 1,
+    "wis": 12,
+    "cha": 2,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d3",
+        "damageType": "b, p, s",
+        "plus": "grab"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+2", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d4",
+          "damageType": "b, p, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+1",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+8",
+      "dex": "–2",
+      "con": "+4",
+      "specialAttacks": ["constrict "],
+      "level": 4
+    }
+  },
+  "snake, reef": {
+    "source": " PZO1140",
+    "description": "Highly venomous and an excellent swimmer, the brightly colored reef snake is at home in tidal waters but can slither about on land if needed.",
+    "size": "medium",
+    "speed": { "base": 10, "swim": 40 },
+    "str": 10,
+    "dex": 15,
+    "con": 12,
+    "int": 1,
+    "wis": 13,
+    "cha": 2,
+    "specialQualities": ["low-light vision", "hold breath", "scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, p, s",
+        "plus": "poison"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+2", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "attacks": [],
+      "str": "+2",
+      "specialAttacks": ["poison (frequency "],
+      "level": 7
+    }
+  },
+  "snake, spitting cobra": {
+    "source": " PZO1140",
+    "description": "This brightly colored snake can spit its venom, giving it a dangerous ranged attack.",
+    "size": "small",
+    "speed": { "base": 20, "climb": 20 },
+    "str": 8,
+    "dex": 15,
+    "con": 11,
+    "int": 1,
+    "wis": 12,
+    "cha": 2,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d3",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+2", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "attacks": [],
+      "dex": "+2",
+      "con": "+2",
+      "specialAttacks": ["poison (frequency "],
+      "level": 7
+    }
+  },
+  "snake, viper": {
+    "size": "small",
+    "speed": { "base": 20, "climb": 20, "swim": 20 },
+    "str": 8,
+    "dex": 17,
+    "con": 11,
+    "int": 1,
+    "wis": 12,
+    "cha": 2,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [],
+    "bonuses": [
+      { "stat": "ac", "value": "+2", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "medium",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d4",
+          "damageType": "b, p, s",
+          "plus": "poison"
+        }
+      ],
+      "str": "+4",
+      "dex": "–2",
+      "level": 4
+    }
+  },
+  "snapping turtle": {
+    "size": "medium",
+    "speed": { "base": 20, "swim": 20 },
+    "str": 8,
+    "dex": 10,
+    "con": 9,
+    "int": 1,
+    "wis": 13,
+    "cha": 6,
+    "specialQualities": ["low-light vision", "hold breath", "scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d6",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+10", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d8",
+          "damageType": "b, p, s",
+          "plus": "grab"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+8",
+      "dex": "–2",
+      "level": 7
+    }
+  },
+  "spinosaurus": {
+    "size": "medium",
+    "speed": { "base": 30, "swim": 20 },
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d6",
+        "damageType": "b, p, s"
+      },
+      {
+        "name": "2 claws",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+3", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d8",
+          "damageType": "b, p, s"
+        },
+        {
+          "name": "2 claws",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+8",
+      "dex": "–2",
+      "level": 7
+    }
+  },
+  "squid": {
+    "size": "medium",
+    "speed": { "swim": 60 },
+    "str": 14,
+    "dex": 15,
+    "con": 11,
+    "int": 2,
+    "wis": 12,
+    "cha": 2,
+    "specialQualities": ["low-light vision", "ink cloud"],
+    "attacks": [
+      {
+        "name": "tentacles",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b",
+        "plus": "grab"
+      },
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d3",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": { "attacks": [], "str": "+2", "level": 4 }
+  },
+  "squid, giant": {
+    "source": " PZO1140",
+    "description": "Although this creature isn’t nearly the size of a true giant squid, it remains large enough to do serious damage to foes with its many tentacles.",
+    "size": "medium",
+    "speed": { "swim": 40, "jet": 90 },
+    "str": 12,
+    "dex": 15,
+    "con": 13,
+    "int": 2,
+    "wis": 12,
+    "cha": 3,
+    "specialQualities": ["aquatic", "low-light vision"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d6",
+        "damageType": "b, p, s"
+      },
+      {
+        "name": "tentacles",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b",
+        "plus": "grab"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d8",
+          "damageType": "b, p, s"
+        },
+        {
+          "name": "tentacles",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b",
+          "plus": "grab"
+        },
+        { "name": "constrict", "type": "natural", "damage": "1d6" }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "specialQualities": ["ink cloud ("],
+      "str": "+8",
+      "dex": "–2",
+      "con": "+4",
+      "specialAttacks": [
+        { "name": "constrict", "type": "natural", "damage": "1d6" },
+        "constrict ("
+      ],
+      "level": 7
+    }
+  },
+  "stag": {
+    "source": ": PRG:B4",
+    "size": "small",
+    "speed": {},
+    "str": 10,
+    "dex": 19,
+    "con": 14,
+    "int": 2,
+    "wis": 15,
+    "cha": 8,
+    "attacks": [
+      { "name": "gore", "type": "natural", "damage": "1d4", "damageType": "p" }
+    ],
+    "advancements": {
+      "size": "medium",
+      "attacks": [
+        {
+          "name": "gore",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "p"
+        },
+        {
+          "name": "2 hooves",
+          "type": "natural",
+          "damage": "1d4",
+          "damageType": "b"
+        }
+      ],
+      "str": "+2",
+      "dex": "–2",
+      "level": 4
+    }
+  },
+  "stegosaurus": {
+    "size": "medium",
+    "speed": { "base": 30 },
+    "str": 10,
+    "dex": 18,
+    "con": 10,
+    "int": 2,
+    "wis": 12,
+    "cha": 10,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      { "name": "tail", "type": "natural", "damage": "2d6", "damageType": "b" }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+6", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "tail",
+          "type": "natural",
+          "damage": "2d8",
+          "damageType": "b",
+          "plus": "trip"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+3",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+8",
+      "dex": "–2",
+      "level": 7
+    }
+  },
+  "stingray": {
+    "size": "small",
+    "speed": { "swim": 40 },
+    "str": 6,
+    "dex": 15,
+    "con": 13,
+    "int": 1,
+    "wis": 13,
+    "cha": 2,
+    "specialQualities": ["low-light vision"],
+    "attacks": [],
+    "advancements": {
+      "size": "medium",
+      "attacks": [
+        {
+          "name": "sting",
+          "type": "natural",
+          "damage": "1d4",
+          "damageType": "p"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+1",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "specialQualities": ["blindsense "],
+      "str": "+4",
+      "dex": "-2",
+      "con": "+2",
+      "level": 4
+    }
+  },
+  "styracosaurus": {
+    "source": ": PRG:B4",
+    "size": "medium",
+    "speed": { "base": 30 },
+    "str": 10,
+    "dex": 13,
+    "con": 11,
+    "int": 2,
+    "wis": 12,
+    "cha": 7,
+    "attacks": [
+      { "name": "gore", "type": "natural", "damage": "1d8", "damageType": "p" }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+6", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "gore",
+          "type": "natural",
+          "damage": "2d6",
+          "damageType": "p"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+3",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+8",
+      "dex": "–2",
+      "con": "+4",
+      "level": 7
+    }
+  },
+  "therizinosaurus": {
+    "source": " B5",
+    "size": "medium",
+    "speed": { "base": 30 },
+    "str": 12,
+    "dex": 18,
+    "con": 10,
+    "int": 2,
+    "wis": 15,
+    "cha": 11,
+    "specialQualities": ["low-light vision", "scent", "sprint"],
+    "attacks": [],
+    "bonuses": [
+      { "stat": "ac", "value": "+4", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+3",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "specialQualities": ["bleed ("],
+      "str": "+8",
+      "dex": "-2",
+      "con": "+4",
+      "level": 7
+    }
+  },
+  "thylacine": {
+    "size": "small",
+    "speed": { "base": 30 },
+    "str": 12,
+    "dex": 15,
+    "con": 16,
+    "int": 2,
+    "wis": 13,
+    "cha": 7,
+    "specialQualities": ["low-light vision", "powerful jaws"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, p, s"
+      }
+    ],
+    "advancements": {
+      "size": "medium",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b, p, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+4",
+      "dex": "-2",
+      "level": 4
+    }
+  },
+  "titanoboa": {
+    "source": " PRG:B6",
+    "size": "medium",
+    "speed": { "base": 30, "climb": 30, "swim": 30 },
+    "str": 15,
+    "dex": 15,
+    "con": 11,
+    "int": 2,
+    "wis": 17,
+    "cha": 8,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+4", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b, p, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "specialQualities": ["constrict ("],
+      "str": "+8",
+      "dex": "–2",
+      "con": "+4",
+      "level": 7
+    }
+  },
+  "toad, giant": {
+    "size": "medium",
+    "speed": { "base": 30, "swim": 30 },
+    "str": 15,
+    "dex": 13,
+    "con": 16,
+    "int": 1,
+    "wis": 9,
+    "cha": 6,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d6",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "attacks": [],
+      "specialQualities": ["poison skin (poison"],
+      "str": "+2",
+      "dex": "+2",
+      "level": 4
+    }
+  },
+  "tortoise": {
+    "source": ": PRG:B4",
+    "size": "medium",
+    "speed": { "base": 10 },
+    "str": 14,
+    "dex": 8,
+    "con": 16,
+    "int": 2,
+    "wis": 13,
+    "cha": 9,
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+6", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b, p, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+8",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+4",
+      "dex": "–2",
+      "con": "+2",
+      "level": 7
+    }
+  },
+  "triceratops": {
+    "size": "medium",
+    "speed": { "base": 30 },
+    "attacks": [
+      { "name": "gore", "type": "natural", "damage": "1d8", "damageType": "p" }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+6", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "gore",
+          "type": "natural",
+          "damage": "2d6",
+          "damageType": "p"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+3",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "specialQualities": ["powerful charge (gore", ""],
+      "str": "+8",
+      "dex": "–2",
+      "con": "+4",
+      "level": 7
+    }
+  },
+  "troodon": {
+    "source": " B5",
+    "size": "small",
+    "speed": { "base": 40 },
+    "str": 7,
+    "dex": 17,
+    "con": 10,
+    "int": 2,
+    "wis": 14,
+    "cha": 13,
+    "specialQualities": ["easily trained", "low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, p, s"
+      },
+      {
+        "name": "2 claws",
+        "type": "natural",
+        "damage": "1d3",
+        "damageType": "b, s"
+      }
+    ],
+    "advancements": {
+      "size": "medium",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b, p, s"
+        },
+        {
+          "name": "2 claws",
+          "type": "natural",
+          "damage": "1d4",
+          "damageType": "b, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+1",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+4",
+      "dex": "+4",
+      "level": 4
+    }
+  },
+  "trumpeter swan": {
+    "source": ": PRG:B4",
+    "size": "small",
+    "speed": { "base": 10, "ly": 80 },
+    "str": 10,
+    "dex": 15,
+    "con": 12,
+    "int": 2,
+    "wis": 12,
+    "cha": 5,
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, p, s"
+      },
+      {
+        "name": "2 wings",
+        "type": "natural",
+        "damage": "1d3",
+        "damageType": "b"
+      }
+    ],
+    "advancements": { "attacks": [], "str": "+2", "level": 4 }
+  },
+  "tylosaurus": {
+    "size": "medium",
+    "speed": { "base": 20, "swim": 50 },
+    "str": 10,
+    "dex": 17,
+    "con": 10,
+    "int": 2,
+    "wis": 13,
+    "cha": 9,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d6",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+3", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d8",
+          "damageType": "b, p, s",
+          "plus": "grab"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+8",
+      "dex": "–2",
+      "level": 7
+    }
+  },
+  "tyrannosaurus": {
+    "size": "medium",
+    "speed": { "base": 30 },
+    "str": 14,
+    "dex": 16,
+    "con": 10,
+    "int": 2,
+    "wis": 15,
+    "cha": 10,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d8",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+4", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "2d6",
+          "damageType": "b, p, s",
+          "plus": "grab"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+3",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "specialQualities": ["powerful bite"],
+      "str": "+8",
+      "dex": "–2",
+      "con": "+4",
+      "level": 7
+    }
+  },
+  "uintatherium": {
+    "source": " B5",
+    "size": "medium",
+    "speed": { "base": 30 },
+    "str": 14,
+    "dex": 12,
+    "con": 17,
+    "int": 1,
+    "wis": 13,
+    "cha": 3,
+    "specialQualities": ["scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d8",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+4", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "2d6",
+          "damageType": "b, p, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+3",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+8",
+      "dex": "-2",
+      "level": 7
+    }
+  },
+  "velociraptor": {
+    "source": ": PRG:B4",
+    "size": "small",
+    "speed": { "base": 60 },
+    "str": 11,
+    "dex": 17,
+    "con": 17,
+    "int": 2,
+    "wis": 12,
+    "cha": 14,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "2 talons",
+        "type": "natural",
+        "damage": "1d6",
+        "damageType": "s"
+      },
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "medium",
+      "attacks": [
+        {
+          "name": "2 talons",
+          "type": "natural",
+          "damage": "1d8",
+          "damageType": "s"
+        },
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b, p, s"
+        },
+        {
+          "name": "2 claws",
+          "type": "natural",
+          "damage": "1d4",
+          "damageType": "b, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+4",
+      "dex": "–2",
+      "con": "+2",
+      "specialAttacks": ["pounce"],
+      "level": 7
+    }
+  },
+  "vulture, giant": {
+    "size": "medium",
+    "speed": { "base": 10, "ly": 50 },
+    "str": 12,
+    "dex": 15,
+    "con": 14,
+    "int": 2,
+    "wis": 15,
+    "cha": 7,
+    "specialQualities": ["low-light vision", ""],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d8",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+2", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "2d6",
+          "damageType": "b, p, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+8",
+      "dex": "–2",
+      "level": 7
+    }
+  },
+  "vulture, whisper": {
+    "source": ": Orcs",
+    "size": "small",
+    "speed": { "base": 10, "fly": 60, "maneuverability": "average" },
+    "str": 12,
+    "dex": 15,
+    "con": 12,
+    "int": 2,
+    "wis": 13,
+    "cha": 7,
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d6",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": { "attacks": [], "str": "+2", "level": 4 }
+  },
+  "walrus": {
+    "source": " PCS:AA",
+    "size": "medium",
+    "speed": { "base": 20, "swim": 40 },
+    "str": 14,
+    "dex": 13,
+    "con": 14,
+    "int": 2,
+    "wis": 13,
+    "cha": 9,
+    "specialQualities": ["hold breath", "low-light vision"],
+    "attacks": [
+      { "name": "gore", "type": "natural", "damage": "1d6", "damageType": "p" }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+3", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "gore",
+          "type": "natural",
+          "damage": "1d8",
+          "damageType": "p"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+4",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "specialQualities": ["fatal gore"],
+      "str": "+8",
+      "dex": "–2",
+      "con": "+4",
+      "level": 7
+    }
+  },
+  "warcat": {
+    "source": ": Orcs",
+    "size": "medium",
+    "speed": { "base": 40 },
+    "str": 15,
+    "dex": 15,
+    "con": 14,
+    "int": 2,
+    "wis": 11,
+    "cha": 5,
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d6",
+        "damageType": "b, p, s"
+      },
+      {
+        "name": "2 claws",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, s"
+      },
+      { "name": "rake", "type": "natural", "damage": "1d4" }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+4", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d8",
+          "damageType": "b, p, s"
+        },
+        {
+          "name": "2 claws",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+8",
+      "dex": "–2",
+      "con": "+4",
+      "specialAttacks": ["grab", "pounce", "rake ("],
+      "level": 7
+    }
+  },
+  "weasel, giant": {
+    "source": ": PRG:B4",
+    "size": "small",
+    "speed": { "base": 30, "climb": 10 },
+    "str": 10,
+    "dex": 19,
+    "con": 13,
+    "int": 2,
+    "wis": 12,
+    "cha": 10,
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "medium",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d6",
+          "damageType": "b, p, s"
+        }
+      ],
+      "str": "+4",
+      "dex": "–2",
+      "level": 4
+    }
+  },
+  "wolf": {
+    "size": "medium",
+    "speed": { "base": 50 },
+    "str": 13,
+    "dex": 15,
+    "con": 15,
+    "int": 2,
+    "wis": 12,
+    "cha": 6,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d6",
+        "damageType": "b, p, s",
+        "plus": "trip"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+2", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d8",
+          "damageType": "b, p, s",
+          "plus": "trip"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+8",
+      "dex": "–2",
+      "level": 7
+    }
+  },
+  "wolfdog": {
+    "source": " PZO1140",
+    "description": "This creature is a dependable hybrid of wolf and dog.",
+    "size": "medium",
+    "speed": { "base": 40 },
+    "str": 15,
+    "dex": 15,
+    "con": 13,
+    "int": 2,
+    "wis": 12,
+    "cha": 6,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d6",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+2", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": { "attacks": [], "str": "+2", "con": "+2", "level": 4 }
+  },
+  "whale, blue": {
+    "source": " B5",
+    "size": "medium",
+    "speed": { "swim": 80 },
+    "str": 11,
+    "dex": 19,
+    "con": 10,
+    "int": 2,
+    "wis": 14,
+    "cha": 6,
+    "specialQualities": ["low-light vision", "hold breath"],
+    "attacks": [
+      {
+        "name": "tail slap",
+        "type": "natural",
+        "damage": "1d8",
+        "damageType": "b"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "tail slap",
+          "type": "natural",
+          "damage": "2d6",
+          "damageType": "b"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "str": "+8",
+      "dex": "-2",
+      "level": 7
+    }
+  },
+  "whale, narwhal": {
+    "source": " B5",
+    "size": "medium",
+    "speed": { "swim": 80 },
+    "str": 11,
+    "dex": 19,
+    "con": 10,
+    "int": 2,
+    "wis": 14,
+    "cha": 6,
+    "specialQualities": ["low-light vision", "hold breath"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d6",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d8",
+          "damageType": "b, p, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "specialQualities": ["blindsight "],
+      "str": "+8",
+      "dex": "-2",
+      "con": "+4",
+      "level": 7
+    }
+  },
+  "whale, orca": {
+    "size": "medium",
+    "speed": { "swim": 80 },
+    "str": 11,
+    "dex": 19,
+    "con": 10,
+    "int": 2,
+    "wis": 14,
+    "cha": 6,
+    "specialQualities": ["low-light vision", "hold breath"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d6",
+        "damageType": "b, p, s"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "bite",
+          "type": "natural",
+          "damage": "1d8",
+          "damageType": "b, p, s"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "specialQualities": ["blindsight "],
+      "str": "+8",
+      "dex": "–2",
+      "con": "+4",
+      "level": 7
+    }
+  },
+  "wolliped": {
+    "size": "medium",
+    "speed": { "base": 50 },
+    "str": 14,
+    "dex": 16,
+    "con": 12,
+    "int": 2,
+    "wis": 11,
+    "cha": 4,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      { "name": "gore", "type": "natural", "damage": "1d6", "damageType": "p" }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+1", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "size": "large",
+      "attacks": [
+        {
+          "name": "gore",
+          "type": "natural",
+          "damage": "1d8",
+          "damageType": "p"
+        }
+      ],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+3",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "specialQualities": ["spit", "trample"],
+      "str": "+4",
+      "dex": "–2",
+      "con": "+4",
+      "level": 7
+    }
+  },
+  "yak": {
+    "source": " PZO1140",
+    "description": "Stout and stubborn, the yak is sure footed and dependable in rough terrain.",
+    "size": "large",
+    "speed": { "base": 30 },
+    "str": 14,
+    "dex": 10,
+    "con": 12,
+    "int": 2,
+    "wis": 10,
+    "cha": 5,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      { "name": "gore", "type": "natural", "damage": "1d8", "damageType": "p" }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+4", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": {
+      "attacks": [],
+      "bonuses": [
+        {
+          "stat": "ac",
+          "value": "+2",
+          "type": "armor",
+          "desc": "natural armor"
+        }
+      ],
+      "specialQualities": [
+        "pack animal (speed is never modified by encumbrance)"
+      ],
+      "str": "+4",
+      "con": "+4",
+      "level": 4
+    }
+  },
+  "zebra": {
+    "source": " PZO1140",
+    "description": "The iconic black and white stripes of the zebra make it instantly recognizable.",
+    "size": "large",
+    "speed": { "base": 50 },
+    "str": 14,
+    "dex": 15,
+    "con": 13,
+    "int": 2,
+    "wis": 14,
+    "cha": 6,
+    "specialQualities": ["low-light vision", "scent"],
+    "attacks": [
+      {
+        "name": "bite",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b, p, s"
+      },
+      {
+        "name": "2 hooves",
+        "type": "natural",
+        "damage": "1d4",
+        "damageType": "b"
+      }
+    ],
+    "bonuses": [
+      { "stat": "ac", "value": "+2", "type": "armor", "desc": "natural armor" }
+    ],
+    "advancements": { "attacks": [], "dex": "+2", "level": 4 }
+  }
+}

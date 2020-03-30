@@ -1,0 +1,126 @@
+Ant, Riding
+Source: JBE:CM
+Special A cavalier can choose this as a mount.
+Starting Statistics
+Size Medium; Speed 40 ft., climb 30 ft.; AC +2 natural armor; Attack bite (1d6 plus grab); Ability Scores Str 14, Dex 10, Con 17, Int —, Wis 10, Cha 6; Special Qualities low-light vision, scent; CMD trip +8.
+4th-Level Advancement
+Ability Scores Str +2, Int +2; Special Qualities combat trained.
+
+Cooshee (Elven Dog)
+Source: TOP:FF
+Prerequisite(s) Elf or Half-Elf only
+Starting Statistics
+Size Small; Speed 40 ft.; AC +2 natural armor; Attack bite (1d4 plus trip), claws (1d3); Ability Scores Str 11, Dex 19, Con 13, Int 2, Wis 12, Cha 6.; Special Qualities scent
+4th-Level Advancement
+Size Medium; Attack bite (1d6 plus trip), claws (1d4); Ability Scores +4 Str, –2 Dex, +4 Con; Special Qualities sprint.
+
+Darkling Beetle, Giant
+Source: JBE:CM
+Special A cavalier can choose this as a mount.
+Starting Statistics
+Size Large; Speed 30 ft., burrow 30 ft.; AC +5 natural armor; Attack bite (1d4); Ability Scores Str 14, Dex 13, Con 17, Int —, Wis 12, Cha 2; Special Qualities darkvision 60 ft., scent; CMD overrun, trip +12.
+4th-Level Advancement
+Ability Scores Int +2; Special Qualities combat trained.
+
+Dodo, Riding
+Source: JBE:SPPC
+Special A medium cavalier can choose this as a mount.
+Starting Statistics
+Size Large; Speed 50 ft.; AC +3 natural armor; Attack bill slam (1d8); Ability Scores Str 16, Dex 15, Con 15, Int 2, Wis 11, Cha 6; Special Qualities low-light vision, scent
+4th-Level Advancement
+Ability Scores Str +2, Con +2; Special Qualities combat trained, darkvision 30 ft.
+
+Eagle, Riding
+Source: JBE:CM
+Special A cavalier can choose this as a mount.
+Starting Statistics
+Size Large; Speed 10 ft., fly 80 ft. (average); AC +0 natural armor; Attack bit (1d6), 2 talons (1d4); Ability Scores Str 14, Dex 13, Con 12, Int 2, Wis 12, Cha 8; Special Qualities low-light vision.
+4th-Level Advancement
+Ability Scores Str +2; Special Qualities combat trained.
+
+Elk, Riding
+Source: JBE:CM
+Special A cavalier can choose this as a mount.
+Starting Statistics
+Size Large; Speed 50 ft.; AC +3 natural armor; Attack 2 hooves* (1d6); Ability Scores Str 14, Dex 15, Con 14, Int 2, Wis 13, Cha 6; Special Qualities low-light vision, scent.
+* This is a secondary natural attack, see Combat for more information on how secondary attacks work.
+4th-Level Advancement
+Ability Scores Dex +2, Con +2; Special Qualities combat trained.
+
+Gila Monster, Giant
+Source: JBE:CM
+Special A cavalier can choose this as a mount.
+Starting Statistics
+Size Medium; Speed 20 ft.; AC +4 natural armor; Attack bite (1d3 plus poison [frequency 1 round (6), effect 1d2 Con damage, cure 1 save, Con-based DC]); Ability Scores Str 16, Dex 8, Con 17, Int 1, Wis 15, Cha 6; Special Qualities darkvision 60 ft., scent.
+4th-Level Advancement
+Ability Scores Str +2, Con +2; Special Qualities combat trained.
+
+Hawk, Riding
+Source: JBE:CM
+Special A cavalier can choose this as a mount.
+Starting Statistics
+Size Medium; Speed 10 ft., fly 60 ft. (average); AC +1 natural armor; Attack bite (1d6), 2 talons (1d4); Ability Scores Str 12, Dex 13, Con 14, Int 2, Wis 12, Cha 6; Special Qualities low-light vision.
+4th-Level Advancement
+Ability Scores Dex +2; Special Qualities combat trained.
+
+Nightcrawler, Giant
+Source: JBE:SPPC
+Starting Statistics
+Size Small; Speed 20 ft., burrow 30 ft.; AC +0 natural armor; Attack bite (1d4); Ability Scores Str 12, Dex 16, Con 12, Int —, Wis 10, Cha 1; Special Qualities darkvision 60 ft., tremorsense 60 ft.; CMD cannot be tripped.
+4th-Level Advancement
+Size Medium; AC +1 natural armor; Attack bite (1d6); Ability Scores Str +4, Dex –2, Con +2
+
+Ostrich, Riding
+Source: JBE:CM
+Special A cavalier can choose this as a mount.
+Starting Statistics
+Size Large; Speed 50 ft.; AC +0 natural armor; Attack bite (1d6); Ability Scores Str 12, Dex 18, Con 13, Int 1, Wis 12, Cha 4; Bonus Feat Run; Special Qualities low-light vision, scent.
+4th-Level Advancement
+Ability Scores Str +2, Con +2; Special Qualities combat trained.
+
+Salamander, Cave
+Source: JBE:CM
+Special A cavalier can choose this as a mount.
+Starting Statistics
+Size Large; Speed 40 ft.; AC +4 natural armor; Attack bite (1d4), 2 claws (1d3); Ability Scores Str 16, Dex 11, Con 17, Int 1, Wis 13, Cha 5; Special Qualities darkvision 60 ft., scent.
+4th-Level Advancement
+Ability Scores Str +2, Con +2; Special Qualities combat trained.
+
+Shade Ferret
+Source: JBE:SPPC
+Special A Small cavalier can choose this as a mount.
+Starting Statistics
+Size Medium; Speed 40 ft.; AC +2 natural armor; Attack 2 slaws (1d3), bite (1d4); Ability Scores Str 13, Dex 13, Con 15, Int 2, Wis 13, Cha 8; Special Qualities blindsight 60 ft., scent, stand on hind legs
+4th-Level Advancement
+Ability Scores Str +2, Con +2; Special Qualities combat trained, superior scent
+
+Spider, Riding
+Source: JBE:CM
+Special A cavalier can choose this as a mount.
+Starting Statistics
+Size Large; Speed 40 ft., climb 40 ft.; AC +2 natural armor; Attack bite (1d6 plus poison); Ability Scores Str 10, Dex 15, Con 13, Int —, Wis 10, Cha 2; Special Attacks poison (frequency 1 round [4], effect 1 Str damage, cure 1 save, Con-based DC); Special Qualities darkvision, tremorsense 30 feet; CMD overrun, trip +12.
+4th-Level Advancement
+Ability Scores Str +2, Int +2; Special Qualities combat trained.
+
+Tumble Pig
+Source: JBE:CM
+Special A cavalier can choose this as a mount.
+Starting Statistics
+Size Medium; Speed 40 ft.; AC +1 natural armor; Attack bite (1d3); Ability Scores Str 12, Dex 15, Con 17, Int 2, Wis 10, Cha 8; Special Qualities low-light vision, scent.
+4th-Level Advancement
+Attack bite (1d4); Ability Scores Str +2; Special Qualities combat trained.
+
+Umbral Vulture
+Source: JBE:SPPC
+Starting Statistics
+Size Small; Speed 10 ft., fly 60 ft. (average); AC +1 natural armor; Attack bite (1d4); Ability Scores Str 10, Dex 15, Con 12, Int 2, Wis 15, Cha 5; Special Qualities darkvision 60 ft., +4 on saves vs. diseases
+4th-Level Advancement
+Size Medium; AC +2 natural armor; Attack bite (1d6); Ability Scores Str +2, Con +2
+
+Wolfhound
+Source: JBE:CM
+Special A cavalier can choose this as a mount.
+Starting Statistics
+Size Large; Speed 40 ft.; AC +3 natural armor; Attack bite (1d6); Ability Scores Str 17, Dex 12, Con 15, Int 2, Wis 12, Cha 8; Special Qualities low-light vision, scent.
+7th-Level Advancement
+Ability Scores Str +2, Dex +2; Special Qualities combat trained.
